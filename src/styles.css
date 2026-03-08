@@ -1,0 +1,189 @@
+:root {
+  font-family: "Noto Sans JP", "Noto Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #192126;
+  background-color: #f0f3f6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  background:
+    radial-gradient(circle at 100% 0%, #d8eefc 0%, transparent 40%),
+    radial-gradient(circle at 0% 100%, #e6f8ee 0%, transparent 45%),
+    #f0f3f6;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  border: 0;
+  border-radius: 12px;
+  background: #24303a;
+  color: #fff;
+  padding: 0.7rem 0.95rem;
+  min-height: 44px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+button:focus-visible {
+  outline: 3px solid #5aa1cf;
+  outline-offset: 2px;
+}
+
+.container {
+  width: min(760px, calc(100% - 1.25rem));
+  margin: 1.25rem auto 1.75rem;
+}
+
+.page-header {
+  margin-bottom: 0.9rem;
+}
+
+.page-header h1 {
+  margin: 0;
+  font-size: clamp(1.3rem, 5vw, 1.95rem);
+}
+
+.page-header p {
+  margin: 0.45rem 0 0;
+  color: #43515d;
+}
+
+.panel {
+  background: rgba(255, 255, 255, 0.86);
+  border: 1px solid #d3dde6;
+  border-radius: 16px;
+  padding: 1rem;
+  margin-bottom: 0.8rem;
+  box-shadow: 0 8px 20px rgba(20, 42, 62, 0.06);
+}
+
+.panel-title {
+  margin: 0 0 0.7rem;
+  font-size: 1.05rem;
+}
+
+.set-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.55rem;
+}
+
+.set-button {
+  background: #e4edf4;
+  color: #1f2b34;
+  border: 1px solid #cdd8e2;
+}
+
+.set-button.is-active {
+  background: #24303a;
+  color: #fff;
+  border-color: #24303a;
+}
+
+.progress-wrap {
+  margin-bottom: 1rem;
+}
+
+.progress-track {
+  width: 100%;
+  height: 10px;
+  border-radius: 999px;
+  background: #dae3eb;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #177e9f, #37a57a);
+  border-radius: inherit;
+  transition: width 140ms ease-out;
+}
+
+.progress-wrap small {
+  display: inline-block;
+  margin-top: 0.3rem;
+  color: #4b5965;
+}
+
+.question-image {
+  margin: 0.8rem 0;
+  border-radius: 12px;
+  border: 1px solid #d7e0e8;
+  background: #f8fbfd;
+}
+
+.question-text {
+  margin: 0;
+  font-size: 1.02rem;
+}
+
+.answer-buttons {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin-top: 0.95rem;
+}
+
+.explanation-panel {
+  margin-top: 0.95rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid #d8e1e8;
+}
+
+.result-ok {
+  margin: 0;
+  color: #1f8a58;
+}
+
+.result-ng {
+  margin: 0;
+  color: #b73a3a;
+}
+
+.explanation-text {
+  margin: 0.45rem 0 0.8rem;
+}
+
+.result-set,
+.result-percent {
+  margin: 0.35rem 0;
+  color: #445360;
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: min(760px, calc(100% - 0.9rem));
+    margin-top: 0.9rem;
+  }
+
+  .panel {
+    border-radius: 14px;
+    padding: 0.85rem;
+  }
+
+  .set-grid,
+  .answer-buttons {
+    grid-template-columns: 1fr;
+  }
+}
