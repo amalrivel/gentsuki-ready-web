@@ -101,8 +101,6 @@ export function useQuiz(selectedSet: QuizSetMeta | null) {
 
   const answerMap = useMemo(() => buildAnswerMap(answers), [answers]);
 
-  const questionMap = useMemo(() => new Map(questions.map((q) => [q.id, q])), [questions]);
-
   const groupMap = useMemo(() => {
     const map = new Map<string, string[]>();
     for (const q of questions) {
@@ -129,10 +127,11 @@ export function useQuiz(selectedSet: QuizSetMeta | null) {
   }, [questions]);
 
   const score = useMemo(() => {
+    const qMap = new Map(questions.map((q) => [q.id, q]));
     const seen = new Set<string>();
     let total = 0;
     for (const answer of answers) {
-      const q = questionMap.get(answer.questionId);
+      const q = qMap.get(answer.questionId);
       if (!q) continue;
       if (q.groupId) {
         if (seen.has(q.groupId)) continue;
@@ -146,7 +145,7 @@ export function useQuiz(selectedSet: QuizSetMeta | null) {
       }
     }
     return total;
-  }, [answers, questionMap, answerMap, groupMap]);
+  }, [answers, questions, answerMap, groupMap]);
 
   function submitAnswer(value: boolean) {
     if (!currentQuestion || status !== 'ready') return;

@@ -5319,7 +5319,7 @@
     ],
     "children": [
       {
-        "sub_number": 1,
+        "sub_number": "47-1",
         "answer": true,
         "question_plain": "左方からの車は対向右折車の合図を見てそのまま交差点を通過するかもしれないので、速度を落として気をつけながら進行する。",
         "explanation_plain": "設問のとおりです。",
@@ -5425,7 +5425,7 @@
         ]
       },
       {
-        "sub_number": 2,
+        "sub_number": "47-2",
         "answer": false,
         "question_plain": "左方からの車は優先道路を走っている自分の車を先に通過させるはずなので、待たせないように速度を上げ急いで進行する。",
         "explanation_plain": "左方からの車が止まらずに進行して来るかもしれないので、優先道路を走っていても十分注意が必要です。",
@@ -5611,7 +5611,7 @@
         ]
       },
       {
-        "sub_number": 3,
+        "sub_number": "47-3",
         "answer": true,
         "question_plain": "対向右折車が先に右折を始めたり、左方からの車が止まらずに進行するかもしれないので、両方の車の動きに注意して進行する。",
         "explanation_plain": "設問のとおりです。",
@@ -5775,7 +5775,7 @@
     ],
     "children": [
       {
-        "sub_number": 4,
+        "sub_number": "48-1",
         "answer": true,
         "question_plain": "トラックの先の横断歩道に歩行者がいるかもしれないので、横断歩道の手前で一時停止する。",
         "explanation_plain": "設問のとおりです。",
@@ -5849,7 +5849,7 @@
         ]
       },
       {
-        "sub_number": 5,
+        "sub_number": "48-2",
         "answer": false,
         "question_plain": "トラックの先の横断歩道を歩行者が渡ってくるかもしれないので、対向車線にはみ出して速度を上げてすばやく進行する。",
         "explanation_plain": "トラックの側方に安全な間隔をあけ、すぐに止まれる速度で十分に注意しながら進行し、横断歩道の手前では一時停止して安全を確認しましょう。",
@@ -6051,7 +6051,7 @@
         ]
       },
       {
-        "sub_number": 6,
+        "sub_number": "48-3",
         "answer": true,
         "question_plain": "トラックのドアが開くかもしれないので、側方に十分な間隔をあけ徐行しながら進行し、横断歩道の手前で一時停止する。",
         "explanation_plain": "設問のとおりです。",

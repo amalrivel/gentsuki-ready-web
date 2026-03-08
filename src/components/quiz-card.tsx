@@ -49,7 +49,7 @@ export function QuizCard({ quiz, preferences }: Props) {
         <small>{progressCur} / {quiz.total}</small>
       </div>
 
-      <h2>Soal {question.number}</h2>
+      <h2>Soal {question.numberLabel ?? question.number}</h2>
 
       {question.image && (
         <img
@@ -89,6 +89,7 @@ export function QuizCard({ quiz, preferences }: Props) {
       {quiz.currentAnswer && (
         <ExplanationPanel
           isCorrect={quiz.currentAnswer.isCorrect}
+          userAnswer={quiz.currentAnswer.value}
           explanation={(
             <TextWithRuby
               plain={question.explanation_plain}

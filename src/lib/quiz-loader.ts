@@ -15,7 +15,7 @@ type LoadQuizOptions = {
   shuffleSeed: number;
 };
 
-type ExpandedRaw = RawQuizQuestion & { _groupId?: string };
+type ExpandedRaw = RawQuizQuestion & { _groupId?: string; _subLabel?: string };
 
 function createSeededRandom(seed: number): () => number {
   let state = (Math.floor(seed) >>> 0) || 1;
@@ -131,6 +131,7 @@ function normalizeQuestion(raw: ExpandedRaw, index: number, setId: string): Quiz
     child_question_ruby: normalizeRubyTokens(raw.child_question_ruby),
     isIllustrationChild,
     groupId: raw._groupId,
+    numberLabel: raw._subLabel,
   };
 }
 
@@ -164,10 +165,13 @@ function expandEntries(items: unknown[]): ExpandedRaw[] {
 
       const childRaw = child as RawQuizQuestion & { sub_number?: unknown; image?: unknown };
       const childQuestion = toStringSafe(childRaw.question_plain).trim();
+      const rawSubNum = childRaw.sub_number;
+      const subLabel = typeof rawSubNum === 'string' && rawSubNum.includes('-') ? rawSubNum : undefined;
 
       expanded.push({
         type: 'illustration',
-        number: toPositiveInt(childRaw.sub_number, parentNumber),
+        number: toPositiveInt(rawSubNum, parentNumber),
+        _subLabel: subLabel,
         answer: childRaw.answer,
         question_plain: childQuestion,
         child_question_plain: childQuestion,

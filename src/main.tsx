@@ -1,11 +1,5 @@
 import { render } from 'preact';
-import { App } from './app';
+import { AppShell } from './components/app-shell';
 import './styles.css';
 
-const root = document.getElementById('app');
-
-if (!root) {
-	throw new Error('Root element #app not found');
-}
-
-render(<App />, root);
+render(<AppShell />, document.getElementById('app')!);

@@ -26,6 +26,7 @@ export type QuizQuestion = {
   child_question_ruby?: RubyToken[];
   isIllustrationChild?: boolean;
   groupId?: string;
+  numberLabel?: string;
 };
 
 export type QuizSetFile = {
