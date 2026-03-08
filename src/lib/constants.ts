@@ -10,10 +10,15 @@ export const QUIZ_SETS: QuizSetMeta[] = [
 export const STORAGE_KEYS = {
   progressPrefix: 'quiz-progress:',
   activeSet: 'quiz-active-set',
+  preferences: 'quiz-preferences',
   progressVersion: 1,
 };
 
+export const DEFAULT_PREFERENCES = {
+  showFurigana: true,
+  fontScale: 100,
+} as const;
+
 export const UI_TEXT = {
-  appTitle: 'Gentsuki Quiz',
-  appSubtitle: 'Quiz benar/salah berbasis file statis, ringan, dan cepat.',
+  appTitle: 'Gentsuki Ready Web',
 };

@@ -3,6 +3,11 @@ export type RubyToken = {
   reading?: string | null;
 };
 
+export type UserPreferences = {
+  showFurigana: boolean;
+  fontScale: number;
+};
+
 export type QuizQuestionType = 'standard' | 'illustration' | (string & {});
 
 export type QuizQuestion = {
@@ -15,6 +20,12 @@ export type QuizQuestion = {
   image?: string;
   question_ruby?: RubyToken[];
   explanation_ruby?: RubyToken[];
+  stem_plain?: string;
+  stem_ruby?: RubyToken[];
+  child_question_plain?: string;
+  child_question_ruby?: RubyToken[];
+  isIllustrationChild?: boolean;
+  groupId?: string;
 };
 
 export type QuizSetFile = {
@@ -43,6 +54,7 @@ export type QuizProgress = {
   currentIndex: number;
   answers: UserAnswer[];
   updatedAt: number;
+  shuffleSeed?: number;
 };
 
 export type RawRubyToken = {
@@ -59,6 +71,11 @@ export type RawQuizQuestion = {
   image?: unknown;
   question_ruby?: unknown;
   explanation_ruby?: unknown;
+  stem_plain?: unknown;
+  stem_ruby?: unknown;
+  child_question_plain?: unknown;
+  child_question_ruby?: unknown;
+  is_illustration_child?: unknown;
 };
 
 export type RawQuizSetObject = {
