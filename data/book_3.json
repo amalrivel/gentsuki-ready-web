@@ -1,0 +1,7731 @@
+[
+  {
+    "type": "standard",
+    "number": 1,
+    "answer": true,
+    "image": null,
+    "question_plain": "自己中心的な運転をすると、他人に危険を与えるだけでなく、自分自身も危険になる。",
+    "explanation_plain": "自己中心的な運転は、他人だけでなく、自分にも危険が生じることになります。",
+    "question_ruby": [
+      {
+        "base": "自己中心的",
+        "reading": "じこちゅうしんてき"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "をすると、",
+        "reading": null
+      },
+      {
+        "base": "他人",
+        "reading": "たにん"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "与",
+        "reading": "あた"
+      },
+      {
+        "base": "えるだけでなく、",
+        "reading": null
+      },
+      {
+        "base": "自分自身",
+        "reading": "じぶんじしん"
+      },
+      {
+        "base": "も",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "になる。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "自己中心的",
+        "reading": "じこちゅうしんてき"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "他人",
+        "reading": "たにん"
+      },
+      {
+        "base": "だけでなく、",
+        "reading": null
+      },
+      {
+        "base": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "base": "にも",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "生",
+        "reading": "しょう"
+      },
+      {
+        "base": "じることになります。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 2,
+    "answer": false,
+    "image": null,
+    "question_plain": "深い水たまりを通ると、ブレーキに水が入って、一時的にブレーキの効きがよくなる。",
+    "explanation_plain": "ブレーキに水が入ると、一時的にブレーキが効かなくなることがあります。",
+    "question_ruby": [
+      {
+        "base": "深",
+        "reading": "ふか"
+      },
+      {
+        "base": "い",
+        "reading": null
+      },
+      {
+        "base": "水",
+        "reading": "みず"
+      },
+      {
+        "base": "たまりを",
+        "reading": null
+      },
+      {
+        "base": "通",
+        "reading": "とお"
+      },
+      {
+        "base": "ると、ブレーキに",
+        "reading": null
+      },
+      {
+        "base": "水",
+        "reading": "みず"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "入",
+        "reading": "はい"
+      },
+      {
+        "base": "って、",
+        "reading": null
+      },
+      {
+        "base": "一時的",
+        "reading": "いちじてき"
+      },
+      {
+        "base": "にブレーキの",
+        "reading": null
+      },
+      {
+        "base": "効",
+        "reading": "き"
+      },
+      {
+        "base": "きがよくなる。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "ブレーキに",
+        "reading": null
+      },
+      {
+        "base": "水",
+        "reading": "みず"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "入",
+        "reading": "はい"
+      },
+      {
+        "base": "ると、",
+        "reading": null
+      },
+      {
+        "base": "一時的",
+        "reading": "いちじてき"
+      },
+      {
+        "base": "にブレーキが効かなくなることがあります。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 3,
+    "answer": false,
+    "image": null,
+    "question_plain": "一般原動機付自転車を運転中、一方通行路以外の交差点で右折しようとするときは、交差点の中心のすぐ外側を徐行する。",
+    "explanation_plain": "一方通行路以外の交差点で右折するときは、交差点のすぐ内側を徐行します。",
+    "question_ruby": [
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "運転中",
+        "reading": "うんてんちゅう"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "一方通行路以外",
+        "reading": "いっぽうつうこうろいがい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "右折",
+        "reading": "うせつ"
+      },
+      {
+        "base": "しようとするときは、",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "中心",
+        "reading": "ちゅうしん"
+      },
+      {
+        "base": "のすぐ",
+        "reading": null
+      },
+      {
+        "base": "外側",
+        "reading": "そとがわ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "する。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "一方通行路以外",
+        "reading": "いっぽうつうこうろいがい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "右折",
+        "reading": "うせつ"
+      },
+      {
+        "base": "するときは、",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "のすぐ",
+        "reading": null
+      },
+      {
+        "base": "内側",
+        "reading": "うちがわ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 4,
+    "answer": false,
+    "image": "3-1.png",
+    "question_plain": "図1の標示は、前方の交差する道路に対して自分の通行しているAの道路が優先であることを表している。",
+    "explanation_plain": "図1は「前方優先道路」の標示で、Aより前方の交差するほうが優先道路であることを表しています。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "1の",
+        "reading": null
+      },
+      {
+        "base": "標示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "前方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "交差",
+        "reading": "こうさ"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "対",
+        "reading": "たい"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "しているAの",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "優先",
+        "reading": "ゆうせん"
+      },
+      {
+        "base": "であることを",
+        "reading": null
+      },
+      {
+        "base": "表",
+        "reading": "あらわ"
+      },
+      {
+        "base": "している。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "1は「",
+        "reading": null
+      },
+      {
+        "base": "前方優先道路",
+        "reading": "ぜんぽうゆうせんどうろ"
+      },
+      {
+        "base": "」の",
+        "reading": null
+      },
+      {
+        "base": "標示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "で、Aより",
+        "reading": null
+      },
+      {
+        "base": "前方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "交差",
+        "reading": "こうさ"
+      },
+      {
+        "base": "するほうが",
+        "reading": null
+      },
+      {
+        "base": "優先道路",
+        "reading": "ゆうせんどうろ"
+      },
+      {
+        "base": "であることを",
+        "reading": null
+      },
+      {
+        "base": "表",
+        "reading": "あらわ"
+      },
+      {
+        "base": "しています。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 5,
+    "answer": true,
+    "image": null,
+    "question_plain": "二輪車でカーブを走行するとき、クラッチを切ったり、ギアをニュートラルに変えたりするのは危険である。",
+    "explanation_plain": "カーブを走行するときは、ギアを低速に入れてエンジンブレーキを活用します。",
+    "question_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "でカーブを",
+        "reading": null
+      },
+      {
+        "base": "走行",
+        "reading": "そうこう"
+      },
+      {
+        "base": "するとき、クラッチを",
+        "reading": null
+      },
+      {
+        "base": "切",
+        "reading": "き"
+      },
+      {
+        "base": "ったり、ギアをニュートラルに",
+        "reading": null
+      },
+      {
+        "base": "変",
+        "reading": "か"
+      },
+      {
+        "base": "えたりするのは",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "である。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "カーブを",
+        "reading": null
+      },
+      {
+        "base": "走行",
+        "reading": "そうこう"
+      },
+      {
+        "base": "するときは、ギアを",
+        "reading": null
+      },
+      {
+        "base": "低速",
+        "reading": "ていそく"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "入",
+        "reading": "い"
+      },
+      {
+        "base": "れてエンジンブレーキを",
+        "reading": null
+      },
+      {
+        "base": "活用",
+        "reading": "かつよう"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 6,
+    "answer": false,
+    "image": null,
+    "question_plain": "ハンドルやブレーキが故障している車は、注意しながら徐行して運転しなければならない。",
+    "explanation_plain": "ハンドルやブレーキが故障している車は、修理しなければ運転してはいけません。",
+    "question_ruby": [
+      {
+        "base": "ハンドルやブレーキが",
+        "reading": null
+      },
+      {
+        "base": "故障",
+        "reading": "こしょう"
+      },
+      {
+        "base": "している",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "注意",
+        "reading": "ちゅうい"
+      },
+      {
+        "base": "しながら",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "しなければならない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "ハンドルやブレーキが",
+        "reading": null
+      },
+      {
+        "base": "故障",
+        "reading": "こしょう"
+      },
+      {
+        "base": "している",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "修理",
+        "reading": "しゅうり"
+      },
+      {
+        "base": "しなければ",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "してはいけません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 7,
+    "answer": false,
+    "image": null,
+    "question_plain": "交通事故で負傷者がいる場合は、けがの程度にかかわらず、救急車が到着するまでの間はそのままにしておいたほうがよい。",
+    "explanation_plain": "医師や救急車が到着するまでの間に、止血など可能な応急救護処置を行います。",
+    "question_ruby": [
+      {
+        "base": "交通事故",
+        "reading": "こうつうじこ"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "負傷者",
+        "reading": "ふしょうしゃ"
+      },
+      {
+        "base": "がいる",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "は、けがの",
+        "reading": null
+      },
+      {
+        "base": "程度",
+        "reading": "ていど"
+      },
+      {
+        "base": "にかかわらず、",
+        "reading": null
+      },
+      {
+        "base": "救急車",
+        "reading": "きゅうきゅうしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "到着",
+        "reading": "とうちゃく"
+      },
+      {
+        "base": "するまでの",
+        "reading": null
+      },
+      {
+        "base": "間",
+        "reading": "あいだ"
+      },
+      {
+        "base": "はそのままにしておいたほうがよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "医師",
+        "reading": "いし"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "救急車",
+        "reading": "きゅうきゅうしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "到着",
+        "reading": "とうちゃく"
+      },
+      {
+        "base": "するまでの",
+        "reading": null
+      },
+      {
+        "base": "間",
+        "reading": "あいだ"
+      },
+      {
+        "base": "に、",
+        "reading": null
+      },
+      {
+        "base": "止血",
+        "reading": "しけつ"
+      },
+      {
+        "base": "など",
+        "reading": null
+      },
+      {
+        "base": "可能",
+        "reading": "かのう"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "応急",
+        "reading": "おうきゅう"
+      },
+      {
+        "base": "救護処置",
+        "reading": "きゅうごしょち"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "行",
+        "reading": "おこな"
+      },
+      {
+        "base": "います。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 8,
+    "answer": true,
+    "image": null,
+    "question_plain": "気分が不安定なときやひどく疲れているとき、身体の調子が悪いときは、事故を起こしやすいので運転しないようにする。",
+    "explanation_plain": "気分や体調が悪いときは、運転に集中できなくなり危険なので、運転しないようにします。",
+    "question_ruby": [
+      {
+        "base": "気分",
+        "reading": "きぶん"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "不安定",
+        "reading": "ふあんてい"
+      },
+      {
+        "base": "なときやひどく",
+        "reading": null
+      },
+      {
+        "base": "疲",
+        "reading": "つか"
+      },
+      {
+        "base": "れているとき、",
+        "reading": null
+      },
+      {
+        "base": "身体",
+        "reading": "しんたい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "調子",
+        "reading": "ちょうし"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "悪",
+        "reading": "わる"
+      },
+      {
+        "base": "いときは、",
+        "reading": null
+      },
+      {
+        "base": "事故",
+        "reading": "じこ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "起",
+        "reading": "お"
+      },
+      {
+        "base": "こしやすいので",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "しないようにする。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "気分",
+        "reading": "きぶん"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "体調",
+        "reading": "たいちょう"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "悪",
+        "reading": "わる"
+      },
+      {
+        "base": "いときは、",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "集中",
+        "reading": "しゅうちゅう"
+      },
+      {
+        "base": "できなくなり",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "なので、",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "しないようにします。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 9,
+    "answer": true,
+    "image": "3-2.png",
+    "question_plain": "図2の標識は、大型自動二輪車や普通自動二輪車で二人乗りをして通行してはいけないことを表している。",
+    "explanation_plain": "図2は、「大型自動二輪車および普通自動二輪車二人乗り通行禁止」を表します。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "2の",
+        "reading": null
+      },
+      {
+        "base": "標識",
+        "reading": "ひょうしき"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "大型自動二輪車",
+        "reading": "おおがたじどうにりんしゃ"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "普通自動二輪車",
+        "reading": "ふつうじどうにりんしゃ"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "二人乗",
+        "reading": "ふたりの"
+      },
+      {
+        "base": "りをして",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "してはいけないことを",
+        "reading": null
+      },
+      {
+        "base": "表",
+        "reading": "あらわ"
+      },
+      {
+        "base": "している。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "2は、「",
+        "reading": null
+      },
+      {
+        "base": "大型自動二輪車",
+        "reading": "おおがたじどうにりんしゃ"
+      },
+      {
+        "base": "および",
+        "reading": null
+      },
+      {
+        "base": "普通自動二輪車",
+        "reading": "ふつうじどうにりんしゃ"
+      },
+      {
+        "base": "二人乗",
+        "reading": "ふたりの"
+      },
+      {
+        "base": "り",
+        "reading": null
+      },
+      {
+        "base": "通行禁止",
+        "reading": "つうこうきんし"
+      },
+      {
+        "base": "」を",
+        "reading": null
+      },
+      {
+        "base": "表",
+        "reading": "あらわ"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 10,
+    "answer": false,
+    "image": null,
+    "question_plain": "警察官が交差点で灯火を横に振っている信号で、灯火が振られている方向に進行する交通は、黄色の灯火信号と同じ意味である。",
+    "explanation_plain": "灯火が振られている方向に進行する交通は、青色の灯火信号と同じです。",
+    "question_ruby": [
+      {
+        "base": "警察官",
+        "reading": "けいさつかん"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "横",
+        "reading": "よこ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "振",
+        "reading": "ふ"
+      },
+      {
+        "base": "っている",
+        "reading": null
+      },
+      {
+        "base": "信号",
+        "reading": "しんごう"
+      },
+      {
+        "base": "で、",
+        "reading": null
+      },
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "振",
+        "reading": "ふ"
+      },
+      {
+        "base": "られている",
+        "reading": null
+      },
+      {
+        "base": "方向",
+        "reading": "ほうこう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "進行",
+        "reading": "しんこう"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "黄色",
+        "reading": "きいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火信号",
+        "reading": "とうかしんごう"
+      },
+      {
+        "base": "と",
+        "reading": null
+      },
+      {
+        "base": "同",
+        "reading": "おな"
+      },
+      {
+        "base": "じ",
+        "reading": null
+      },
+      {
+        "base": "意味",
+        "reading": "いみ"
+      },
+      {
+        "base": "である。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "振",
+        "reading": "ふ"
+      },
+      {
+        "base": "られている",
+        "reading": null
+      },
+      {
+        "base": "方向",
+        "reading": "ほうこう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "進行",
+        "reading": "しんこう"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "青色",
+        "reading": "あおいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火信号",
+        "reading": "とうかしんごう"
+      },
+      {
+        "base": "と",
+        "reading": null
+      },
+      {
+        "base": "同",
+        "reading": "おな"
+      },
+      {
+        "base": "じです。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 11,
+    "answer": true,
+    "image": null,
+    "question_plain": "片側3車線の交差点で、信号が「赤色の灯火」と「右向きの青色の灯火の矢印」を示している場合、普通自動車は矢印の方向に進めるが、一般原動機付自転車は進むことができない。",
+    "explanation_plain": "一般原動機付自転車は、二段階右折の方法で右折しなければならないので進めません。",
+    "question_ruby": [
+      {
+        "base": "片側",
+        "reading": "かたがわ"
+      },
+      {
+        "base": "3",
+        "reading": null
+      },
+      {
+        "base": "車線",
+        "reading": "しゃせん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "で、",
+        "reading": null
+      },
+      {
+        "base": "信号",
+        "reading": "しんごう"
+      },
+      {
+        "base": "が「",
+        "reading": null
+      },
+      {
+        "base": "赤色",
+        "reading": "あかいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "」と「",
+        "reading": null
+      },
+      {
+        "base": "右向",
+        "reading": "みぎむ"
+      },
+      {
+        "base": "きの",
+        "reading": null
+      },
+      {
+        "base": "青色",
+        "reading": "あおいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "矢印",
+        "reading": "やじるし"
+      },
+      {
+        "base": "」を",
+        "reading": null
+      },
+      {
+        "base": "示",
+        "reading": "しめ"
+      },
+      {
+        "base": "している",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "普通自動車",
+        "reading": "ふつうじどうしゃ"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "矢印",
+        "reading": "やじるし"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "方向",
+        "reading": "ほうこう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "進",
+        "reading": "すす"
+      },
+      {
+        "base": "めるが、",
+        "reading": null
+      },
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "進",
+        "reading": "すす"
+      },
+      {
+        "base": "むことができない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "二段階右折",
+        "reading": "にだんかいうせつ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "方法",
+        "reading": "ほうほう"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "右折",
+        "reading": "うせつ"
+      },
+      {
+        "base": "しなけれ",
+        "reading": null
+      },
+      {
+        "base": "ばならないので進めません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 12,
+    "answer": true,
+    "image": null,
+    "question_plain": "坂道ですれ違うとき、近くに待避所があれば、上りの車でも待避所に入り、下りの車に道を譲る。",
+    "explanation_plain": "上り下りに関係なく、待避所がある側の車がそこに入って対向車に道を譲ります。",
+    "question_ruby": [
+      {
+        "base": "坂道",
+        "reading": "さかみち"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "行",
+        "reading": "い"
+      },
+      {
+        "base": "き",
+        "reading": null
+      },
+      {
+        "base": "違",
+        "reading": "ちが"
+      },
+      {
+        "base": "うとき、",
+        "reading": null
+      },
+      {
+        "base": "近",
+        "reading": "ちか"
+      },
+      {
+        "base": "くに",
+        "reading": null
+      },
+      {
+        "base": "待避所",
+        "reading": "たいひじょ"
+      },
+      {
+        "base": "があれば、",
+        "reading": null
+      },
+      {
+        "base": "上",
+        "reading": "のぼ"
+      },
+      {
+        "base": "りの",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "でも",
+        "reading": null
+      },
+      {
+        "base": "待避所",
+        "reading": "たいひじょ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "入",
+        "reading": "はい"
+      },
+      {
+        "base": "り、",
+        "reading": null
+      },
+      {
+        "base": "下",
+        "reading": "くだ"
+      },
+      {
+        "base": "りの",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "道",
+        "reading": "みち"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "譲",
+        "reading": "ゆず"
+      },
+      {
+        "base": "る。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "上",
+        "reading": "のぼ"
+      },
+      {
+        "base": "り",
+        "reading": null
+      },
+      {
+        "base": "下",
+        "reading": "くだ"
+      },
+      {
+        "base": "りに",
+        "reading": null
+      },
+      {
+        "base": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "base": "なく、",
+        "reading": null
+      },
+      {
+        "base": "待避所",
+        "reading": "たいひじょ"
+      },
+      {
+        "base": "がある",
+        "reading": null
+      },
+      {
+        "base": "側",
+        "reading": "がわ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "がそこに",
+        "reading": null
+      },
+      {
+        "base": "入",
+        "reading": "はい"
+      },
+      {
+        "base": "って",
+        "reading": null
+      },
+      {
+        "base": "対向車",
+        "reading": "たいこうしゃ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "道",
+        "reading": "みち"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "譲",
+        "reading": "ゆず"
+      },
+      {
+        "base": "ります。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 13,
+    "answer": false,
+    "image": null,
+    "question_plain": "夜間、対向車のライトがまぶしいときは、それを見つめて、早くその光に慣れるようにしたほうがよい。",
+    "explanation_plain": "ライトを見つめるのは危険です。視点をやや左前方に移し、目がくらまないようにします。",
+    "question_ruby": [
+      {
+        "base": "夜間",
+        "reading": "やかん"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "対向車",
+        "reading": "たいこうしゃ"
+      },
+      {
+        "base": "のライトがまぶしいときは、それを",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "つめて、",
+        "reading": null
+      },
+      {
+        "base": "早",
+        "reading": "はや"
+      },
+      {
+        "base": "くその",
+        "reading": null
+      },
+      {
+        "base": "光",
+        "reading": "ひかり"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "慣",
+        "reading": "な"
+      },
+      {
+        "base": "れるようにしたほうがよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "ライトを",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "つめるのは",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "です。",
+        "reading": null
+      },
+      {
+        "base": "視点",
+        "reading": "してん"
+      },
+      {
+        "base": "をやや",
+        "reading": null
+      },
+      {
+        "base": "左前方",
+        "reading": "ひだりぜんぽう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "移",
+        "reading": "うつ"
+      },
+      {
+        "base": "し、",
+        "reading": null
+      },
+      {
+        "base": "目",
+        "reading": "め"
+      },
+      {
+        "base": "がくらまないようにします。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 14,
+    "answer": false,
+    "image": "3-3.png",
+    "question_plain": "図3のような道幅が違う交差点では、B車はA車の進行を妨げてはならない。",
+    "explanation_plain": "図3の交差点は幅が広い道路を通行しているB車が優先します。A車はB車の進行を妨げてはいけません。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "3のような",
+        "reading": null
+      },
+      {
+        "base": "道幅",
+        "reading": "みちはば"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "違",
+        "reading": "ちが"
+      },
+      {
+        "base": "う",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "では、B",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "しゃ"
+      },
+      {
+        "base": "はA",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "しゃ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "進行",
+        "reading": "しんこう"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "妨",
+        "reading": "さまた"
+      },
+      {
+        "base": "げてはならない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "3の",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "幅",
+        "reading": "はば"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "広",
+        "reading": "ひろ"
+      },
+      {
+        "base": "い",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "しているB",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "しゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "優先",
+        "reading": "ゆうせん"
+      },
+      {
+        "base": "します。A",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "しゃ"
+      },
+      {
+        "base": "はB",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "しゃ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "進行",
+        "reading": "しんこう"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "妨",
+        "reading": "さまた"
+      },
+      {
+        "base": "げてはいけません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 15,
+    "answer": false,
+    "image": null,
+    "question_plain": "一般原動機付自転車は、ヘルメットをかぶれば二人乗りをすることができる。",
+    "explanation_plain": "たとえヘルメットをかぶっても、一般原動機付自転車で二人乗りをすることはできません。",
+    "question_ruby": [
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "は、ヘルメットをかぶれば",
+        "reading": null
+      },
+      {
+        "base": "二人乗",
+        "reading": "ふたりの"
+      },
+      {
+        "base": "りをすることができる。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "たとえヘルメットをかぶっても、",
+        "reading": null
+      },
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "二人乗",
+        "reading": "ふたりの"
+      },
+      {
+        "base": "りをすることはできません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 16,
+    "answer": false,
+    "image": null,
+    "question_plain": "事故で頭部に傷を受けている場合は、救急車が来る前に病院へ連れて行ったほうがよい。",
+    "explanation_plain": "頭部を負傷している場合は、むやみに動かしてはいけません。救急車の到着を待ちます。",
+    "question_ruby": [
+      {
+        "base": "事故",
+        "reading": "じこ"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "頭部",
+        "reading": "とうぶ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "傷",
+        "reading": "きず"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "受",
+        "reading": "う"
+      },
+      {
+        "base": "けている",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "救急車",
+        "reading": "きゅうきゅうしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "来",
+        "reading": "く"
+      },
+      {
+        "base": "る",
+        "reading": null
+      },
+      {
+        "base": "前",
+        "reading": "まえ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "病院",
+        "reading": "びょういん"
+      },
+      {
+        "base": "へ",
+        "reading": null
+      },
+      {
+        "base": "連",
+        "reading": "つ"
+      },
+      {
+        "base": "れて",
+        "reading": null
+      },
+      {
+        "base": "行",
+        "reading": "い"
+      },
+      {
+        "base": "ったほうがよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "頭部",
+        "reading": "とうぶ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "負傷",
+        "reading": "ふしょう"
+      },
+      {
+        "base": "している",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "むやみに",
+        "reading": null
+      },
+      {
+        "base": "動",
+        "reading": "うご"
+      },
+      {
+        "base": "かしてはいけませ\nん。",
+        "reading": null
+      },
+      {
+        "base": "救急車",
+        "reading": "きゅうきゅうしゃ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "到着",
+        "reading": "とうちゃく"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "待",
+        "reading": "ま"
+      },
+      {
+        "base": "ちます。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 17,
+    "answer": true,
+    "image": null,
+    "question_plain": "二輪車を運転中、スロットルグリップのワイヤーが引っかかり、エンジンの回転数が上がったままになったときは、ただちに点火スイッチを切る。",
+    "explanation_plain": "二輪車の場合は、ただちに点火スイッチを切って、エンジンの回転を止めます。",
+    "question_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "運転中",
+        "reading": "うんてんちゅう"
+      },
+      {
+        "base": "、スロットルグリップのワイヤーが",
+        "reading": null
+      },
+      {
+        "base": "引",
+        "reading": "ひ"
+      },
+      {
+        "base": "っかかり、エンジンの",
+        "reading": null
+      },
+      {
+        "base": "回転数",
+        "reading": "かいてんすう"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "上",
+        "reading": "あ"
+      },
+      {
+        "base": "がったままになったときは、ただちに",
+        "reading": null
+      },
+      {
+        "base": "点火",
+        "reading": "てんか"
+      },
+      {
+        "base": "スイッチを",
+        "reading": null
+      },
+      {
+        "base": "切",
+        "reading": "き"
+      },
+      {
+        "base": "る。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "は、ただちに",
+        "reading": null
+      },
+      {
+        "base": "点火",
+        "reading": "てんか"
+      },
+      {
+        "base": "スイッチを",
+        "reading": null
+      },
+      {
+        "base": "切",
+        "reading": "き"
+      },
+      {
+        "base": "って、エンジ\nンの",
+        "reading": null
+      },
+      {
+        "base": "回転",
+        "reading": "かいてん"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "止",
+        "reading": "と"
+      },
+      {
+        "base": "めます。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 18,
+    "answer": false,
+    "image": null,
+    "question_plain": "見通しのきかない交差点の手前では、必ず警音器を使用して、周囲に自分の車の存在を知らせなければならない。",
+    "explanation_plain": "警音器は、指定された場所と危険を防止する場合以外は、むやみに使用してはいけません。",
+    "question_ruby": [
+      {
+        "base": "見通",
+        "reading": "みとお"
+      },
+      {
+        "base": "しのきかない",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "手前",
+        "reading": "てまえ"
+      },
+      {
+        "base": "では、",
+        "reading": null
+      },
+      {
+        "base": "必",
+        "reading": "かなら"
+      },
+      {
+        "base": "ず",
+        "reading": null
+      },
+      {
+        "base": "警音器",
+        "reading": "けいおんき"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "使用",
+        "reading": "しよう"
+      },
+      {
+        "base": "して、",
+        "reading": null
+      },
+      {
+        "base": "周囲",
+        "reading": "しゅうい"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "存在",
+        "reading": "そんざい"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "知",
+        "reading": "し"
+      },
+      {
+        "base": "らせなければならない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "警音器",
+        "reading": "けいおんき"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "指定",
+        "reading": "してい"
+      },
+      {
+        "base": "された",
+        "reading": null
+      },
+      {
+        "base": "場所",
+        "reading": "ばしょ"
+      },
+      {
+        "base": "と",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "防止",
+        "reading": "ぼうし"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "場合以外",
+        "reading": "ばあいいがい"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "むやみに",
+        "reading": null
+      },
+      {
+        "base": "使用",
+        "reading": "しよう"
+      },
+      {
+        "base": "してはいけません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 19,
+    "answer": true,
+    "image": "3-4.png",
+    "question_plain": "図4の標識のある道路であっても、一般原動機付自転車は時速30キロメートルを超える速度で運転してはならない。",
+    "explanation_plain": "「最高速度50キロ」の標識があっても、一般原動機付自転車は時速30キロメートルを超えてはいけません。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "4の",
+        "reading": null
+      },
+      {
+        "base": "標識",
+        "reading": "ひょうしき"
+      },
+      {
+        "base": "のある",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "であっても、",
+        "reading": null
+      },
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "時速",
+        "reading": "じそく"
+      },
+      {
+        "base": "30キロメートルを",
+        "reading": null
+      },
+      {
+        "base": "超",
+        "reading": "こ"
+      },
+      {
+        "base": "える",
+        "reading": null
+      },
+      {
+        "base": "速度",
+        "reading": "そくど"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "してはならない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "「",
+        "reading": null
+      },
+      {
+        "base": "最高速度",
+        "reading": "さいこうそくど"
+      },
+      {
+        "base": "50キロ」の",
+        "reading": null
+      },
+      {
+        "base": "標識",
+        "reading": "ひょうしき"
+      },
+      {
+        "base": "があっても、",
+        "reading": null
+      },
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "時速",
+        "reading": "じそく"
+      },
+      {
+        "base": "30キロメートルを",
+        "reading": null
+      },
+      {
+        "base": "超",
+        "reading": "こ"
+      },
+      {
+        "base": "えてはいけません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 20,
+    "answer": true,
+    "image": null,
+    "question_plain": "停留所で止まっているバスの側方を通過するときは、「ひょっとしたら人が出てくるかもしれない」と予測することが必要である。",
+    "explanation_plain": "バスの前後を歩行者が横断することを予測して運転します。",
+    "question_ruby": [
+      {
+        "base": "停留所",
+        "reading": "ていりゅうじょ"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "止",
+        "reading": "と"
+      },
+      {
+        "base": "まっているバスの",
+        "reading": null
+      },
+      {
+        "base": "側方",
+        "reading": "そくほう"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "通過",
+        "reading": "つうか"
+      },
+      {
+        "base": "するときは、「ひょっ\nとしたら",
+        "reading": null
+      },
+      {
+        "base": "人",
+        "reading": "ひと"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "出",
+        "reading": "で"
+      },
+      {
+        "base": "てくるかもしれない」と",
+        "reading": null
+      },
+      {
+        "base": "予測",
+        "reading": "よそく"
+      },
+      {
+        "base": "することが",
+        "reading": null
+      },
+      {
+        "base": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "base": "で\nある。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "バスの",
+        "reading": null
+      },
+      {
+        "base": "前後",
+        "reading": "ぜんご"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "歩行者",
+        "reading": "ほこうしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "横断",
+        "reading": "おうだん"
+      },
+      {
+        "base": "することを",
+        "reading": null
+      },
+      {
+        "base": "予測",
+        "reading": "よそく"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "しま\nす。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 21,
+    "answer": true,
+    "image": null,
+    "question_plain": "交通規則を守って運転することは、交通事故を防止し、交通の秩序を保つことになる。",
+    "explanation_plain": "交通規則を守って運転することは、事故を防止し、秩序を保つことにつながります。",
+    "question_ruby": [
+      {
+        "base": "交通規則",
+        "reading": "こうつうきそく"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "守",
+        "reading": "まも"
+      },
+      {
+        "base": "って",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "することは、",
+        "reading": null
+      },
+      {
+        "base": "交通事故",
+        "reading": "こうつうじこ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "防止",
+        "reading": "ぼうし"
+      },
+      {
+        "base": "し、",
+        "reading": null
+      },
+      {
+        "base": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "秩序",
+        "reading": "ちつじょ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "保",
+        "reading": "たも"
+      },
+      {
+        "base": "つことになる。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "交通規則",
+        "reading": "こうつうきそく"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "守",
+        "reading": "まも"
+      },
+      {
+        "base": "って",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "することは、",
+        "reading": null
+      },
+      {
+        "base": "事故",
+        "reading": "じこ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "防止",
+        "reading": "ぼうし"
+      },
+      {
+        "base": "し、",
+        "reading": null
+      },
+      {
+        "base": "秩序",
+        "reading": "ちつじょ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "保",
+        "reading": "たも"
+      },
+      {
+        "base": "つことにつながります。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 22,
+    "answer": false,
+    "image": null,
+    "question_plain": "二輪車の乗車姿勢は、両ひざを開き、足先が外側を向くようにしたほうがよい。",
+    "explanation_plain": "両ひざでタンクを締め(ニーグリップ)、足先はまっすぐ前方に向けます。",
+    "question_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "乗車姿勢",
+        "reading": "じょうしゃしせい"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "両",
+        "reading": "りょう"
+      },
+      {
+        "base": "ひざを",
+        "reading": null
+      },
+      {
+        "base": "開",
+        "reading": "ひら"
+      },
+      {
+        "base": "き、",
+        "reading": null
+      },
+      {
+        "base": "足先",
+        "reading": "あしさき"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "外側",
+        "reading": "そとがわ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "向",
+        "reading": "む"
+      },
+      {
+        "base": "くようにしたほうがよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "両",
+        "reading": "りょう"
+      },
+      {
+        "base": "ひざでタンクを",
+        "reading": null
+      },
+      {
+        "base": "締",
+        "reading": "し"
+      },
+      {
+        "base": "め(ニーグリップ)、",
+        "reading": null
+      },
+      {
+        "base": "足先",
+        "reading": "あしさき"
+      },
+      {
+        "base": "はまっすぐ",
+        "reading": null
+      },
+      {
+        "base": "前方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "向",
+        "reading": "む"
+      },
+      {
+        "base": "けます。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 23,
+    "answer": false,
+    "image": null,
+    "question_plain": "急カーブや曲がり角では、速度を出して進行すると危険であるから、法定速度で通行する。",
+    "explanation_plain": "法定速度とは限らず、その曲がり角に合った安全な速度で通行します。",
+    "question_ruby": [
+      {
+        "base": "急",
+        "reading": "きゅう"
+      },
+      {
+        "base": "カーブや",
+        "reading": null
+      },
+      {
+        "base": "曲",
+        "reading": "ま"
+      },
+      {
+        "base": "がり",
+        "reading": null
+      },
+      {
+        "base": "角",
+        "reading": "かど"
+      },
+      {
+        "base": "では、",
+        "reading": null
+      },
+      {
+        "base": "速度",
+        "reading": "そくど"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "出",
+        "reading": "だ"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "進行",
+        "reading": "しんこう"
+      },
+      {
+        "base": "すると",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "であるから、",
+        "reading": null
+      },
+      {
+        "base": "法定速度",
+        "reading": "ほうていそくど"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "する。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "法定速度",
+        "reading": "ほうていそくど"
+      },
+      {
+        "base": "とは",
+        "reading": null
+      },
+      {
+        "base": "限",
+        "reading": "かぎ"
+      },
+      {
+        "base": "らず、その",
+        "reading": null
+      },
+      {
+        "base": "曲",
+        "reading": "ま"
+      },
+      {
+        "base": "がり",
+        "reading": null
+      },
+      {
+        "base": "角",
+        "reading": "かど"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "合",
+        "reading": "あ"
+      },
+      {
+        "base": "った",
+        "reading": null
+      },
+      {
+        "base": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "速度",
+        "reading": "そくど"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 24,
+    "answer": true,
+    "image": "3-5.png",
+    "question_plain": "図5は、準中型免許または普通免許を受けて1年未満の人が、準中型自動車または普通自動車を運転するときに表示するマークである。",
+    "explanation_plain": "準中型免許または普通免許を受けて1年未満の人は、車の前後に「初心者マーク」を付けて運転します。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "5は、",
+        "reading": null
+      },
+      {
+        "base": "準中型免許",
+        "reading": "じゅんちゅうがためんきょ"
+      },
+      {
+        "base": "または",
+        "reading": null
+      },
+      {
+        "base": "普通免許",
+        "reading": "ふつうめんきょ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "受",
+        "reading": "う"
+      },
+      {
+        "base": "けて",
+        "reading": null
+      },
+      {
+        "base": "1",
+        "reading": null
+      },
+      {
+        "base": "年未満",
+        "reading": "ねんみまん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "人",
+        "reading": "ひと"
+      },
+      {
+        "base": "が、",
+        "reading": null
+      },
+      {
+        "base": "準中型自動車",
+        "reading": "じゅんちゅうがたじどうしゃ"
+      },
+      {
+        "base": "または",
+        "reading": null
+      },
+      {
+        "base": "普通自動車",
+        "reading": "ふつうじどうしゃ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "するときに",
+        "reading": null
+      },
+      {
+        "base": "表示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "するマークである。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "準中型免許",
+        "reading": "じゅんちゅうがためんきょ"
+      },
+      {
+        "base": "または",
+        "reading": null
+      },
+      {
+        "base": "普通免許",
+        "reading": "ふつうめんきょ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "受",
+        "reading": "う"
+      },
+      {
+        "base": "けて1",
+        "reading": null
+      },
+      {
+        "base": "年未満",
+        "reading": "ねんみまん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "人",
+        "reading": "ひと"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "前後",
+        "reading": "ぜんご"
+      },
+      {
+        "base": "に「",
+        "reading": null
+      },
+      {
+        "base": "初心者",
+        "reading": "しょしんしゃ"
+      },
+      {
+        "base": "マーク」を",
+        "reading": null
+      },
+      {
+        "base": "付",
+        "reading": "つ"
+      },
+      {
+        "base": "けて",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 25,
+    "answer": false,
+    "image": null,
+    "question_plain": "雨降りや夜間など視界が悪いときは、前車がよく見えるように、晴れた日や昼間より前車に接近して運転したほうがよい。",
+    "explanation_plain": "車間距離は多めにとり、前車の制動灯などに注意して運転します。",
+    "question_ruby": [
+      {
+        "base": "雨降",
+        "reading": "あめふ"
+      },
+      {
+        "base": "りや",
+        "reading": null
+      },
+      {
+        "base": "夜間",
+        "reading": "やかん"
+      },
+      {
+        "base": "など",
+        "reading": null
+      },
+      {
+        "base": "視界",
+        "reading": "しかい"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "悪",
+        "reading": "わる"
+      },
+      {
+        "base": "いときは、",
+        "reading": null
+      },
+      {
+        "base": "前車",
+        "reading": "ぜんしゃ"
+      },
+      {
+        "base": "がよく",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "えるように、",
+        "reading": null
+      },
+      {
+        "base": "晴",
+        "reading": "は"
+      },
+      {
+        "base": "れた",
+        "reading": null
+      },
+      {
+        "base": "日",
+        "reading": "ひ"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "昼間",
+        "reading": "ひるま"
+      },
+      {
+        "base": "より",
+        "reading": null
+      },
+      {
+        "base": "前車",
+        "reading": "ぜんしゃ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "接近",
+        "reading": "せっきん"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "したほうがよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "車間距離",
+        "reading": "しゃかんきょり"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "多",
+        "reading": "おお"
+      },
+      {
+        "base": "めにとり、",
+        "reading": null
+      },
+      {
+        "base": "前車",
+        "reading": "ぜんしゃ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "制動灯",
+        "reading": "せいどうとう"
+      },
+      {
+        "base": "などに",
+        "reading": null
+      },
+      {
+        "base": "注意",
+        "reading": "ちゅうい"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 26,
+    "answer": true,
+    "image": null,
+    "question_plain": "こう配の急な下り坂では徐行しなければならないが、こう配の急な上り坂では徐行する必要はない。",
+    "explanation_plain": "こう配の急な下り坂は徐行場所ですが、こう配の急な上り坂は徐行場所に指定されていません。",
+    "question_ruby": [
+      {
+        "base": "こう",
+        "reading": null
+      },
+      {
+        "base": "配",
+        "reading": "ばい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "急",
+        "reading": "きゅう"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "下",
+        "reading": "くだ"
+      },
+      {
+        "base": "り",
+        "reading": null
+      },
+      {
+        "base": "坂",
+        "reading": "ざか"
+      },
+      {
+        "base": "では",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "しなければならないが、こう",
+        "reading": null
+      },
+      {
+        "base": "配",
+        "reading": "ばい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "急",
+        "reading": "きゅう"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "上",
+        "reading": "のぼ"
+      },
+      {
+        "base": "り",
+        "reading": null
+      },
+      {
+        "base": "坂",
+        "reading": "ざか"
+      },
+      {
+        "base": "では",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "base": "はない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "こう",
+        "reading": null
+      },
+      {
+        "base": "配",
+        "reading": "ばい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "急",
+        "reading": "きゅう"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "下",
+        "reading": "くだ"
+      },
+      {
+        "base": "り",
+        "reading": null
+      },
+      {
+        "base": "坂",
+        "reading": "ざか"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "徐行場所",
+        "reading": "じょこうばしょ"
+      },
+      {
+        "base": "ですが、こう",
+        "reading": null
+      },
+      {
+        "base": "配",
+        "reading": "ばい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "急",
+        "reading": "きゅう"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "上",
+        "reading": "のぼ"
+      },
+      {
+        "base": "り",
+        "reading": null
+      },
+      {
+        "base": "坂",
+        "reading": "ざか"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "徐行場所",
+        "reading": "じょこうばしょ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "指定",
+        "reading": "してい"
+      },
+      {
+        "base": "されていません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 27,
+    "answer": true,
+    "image": null,
+    "question_plain": "夜間、二輪車を運転するときは、反射性の衣服や反射材の付いた乗車用ヘルメットを着用したほうがよい。",
+    "explanation_plain": "二輪車は見落とされやすいので、他の運転者から発見されやすい服装や装備で運転します。",
+    "question_ruby": [
+      {
+        "base": "夜間",
+        "reading": "やかん"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "するときは、",
+        "reading": null
+      },
+      {
+        "base": "反射性",
+        "reading": "はんしゃせい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "衣服",
+        "reading": "いふく"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "反射材",
+        "reading": "はんしゃざい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "付",
+        "reading": "つ"
+      },
+      {
+        "base": "いた",
+        "reading": null
+      },
+      {
+        "base": "乗車用",
+        "reading": "じょうしゃよう"
+      },
+      {
+        "base": "ヘルメットを",
+        "reading": null
+      },
+      {
+        "base": "着用",
+        "reading": "ちゃくよう"
+      },
+      {
+        "base": "したほうがよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "見落",
+        "reading": "みお"
+      },
+      {
+        "base": "とされやすいので、",
+        "reading": null
+      },
+      {
+        "base": "他",
+        "reading": "ほか"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "運転者",
+        "reading": "うんてんしゃ"
+      },
+      {
+        "base": "から",
+        "reading": null
+      },
+      {
+        "base": "発見",
+        "reading": "はっけん"
+      },
+      {
+        "base": "されやすい",
+        "reading": null
+      },
+      {
+        "base": "服装",
+        "reading": "ふくそう"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "装備",
+        "reading": "そうび"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 28,
+    "answer": false,
+    "image": null,
+    "question_plain": "道路の中央に黄色の実線が1本引かれているところを一般原動機付自転車で通行中、見通しがよかったので、追い越しのため道路の右側部分にはみ出して通行した。",
+    "explanation_plain": "黄色の実線があるところでは、追い越しのため道路の右側部分にはみ出して通行してはいけません。",
+    "question_ruby": [
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "中央",
+        "reading": "ちゅうおう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "黄色",
+        "reading": "きいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "実線",
+        "reading": "じっせん"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "1",
+        "reading": null
+      },
+      {
+        "base": "本引",
+        "reading": "ほんひ"
+      },
+      {
+        "base": "かれているところを",
+        "reading": null
+      },
+      {
+        "base": "一般原動",
+        "reading": "いっぱんげんどう"
+      },
+      {
+        "base": "機付自転車",
+        "reading": "きつきじてんしゃ"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "通行中",
+        "reading": "つうこうちゅう"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "見通",
+        "reading": "みとお"
+      },
+      {
+        "base": "しがよかったので、",
+        "reading": null
+      },
+      {
+        "base": "追",
+        "reading": "お"
+      },
+      {
+        "base": "い",
+        "reading": null
+      },
+      {
+        "base": "越",
+        "reading": "こ"
+      },
+      {
+        "base": "しのため",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "右側部分",
+        "reading": "みぎがわぶぶん"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "出",
+        "reading": "だ"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "した。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "黄色",
+        "reading": "きいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "実線",
+        "reading": "じっせん"
+      },
+      {
+        "base": "があるところでは、",
+        "reading": null
+      },
+      {
+        "base": "追",
+        "reading": "お"
+      },
+      {
+        "base": "い",
+        "reading": null
+      },
+      {
+        "base": "越",
+        "reading": "こ"
+      },
+      {
+        "base": "しのため",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "右側",
+        "reading": "みぎがわ"
+      },
+      {
+        "base": "部分",
+        "reading": "ぶぶん"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "出",
+        "reading": "だ"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "してはいけません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 29,
+    "answer": true,
+    "image": "3-6.png",
+    "question_plain": "図6の標示は、転回禁止であることを示している。",
+    "explanation_plain": "図6は「転回禁止」の標示で、その場所では転回(Uターン)してはいけません。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "6の",
+        "reading": null
+      },
+      {
+        "base": "標示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "転回禁止",
+        "reading": "てんかいきんし"
+      },
+      {
+        "base": "であることを",
+        "reading": null
+      },
+      {
+        "base": "示",
+        "reading": "しめ"
+      },
+      {
+        "base": "している。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "6は「",
+        "reading": null
+      },
+      {
+        "base": "転回禁止",
+        "reading": "てんかいきんし"
+      },
+      {
+        "base": "」の",
+        "reading": null
+      },
+      {
+        "base": "標示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "で、その",
+        "reading": null
+      },
+      {
+        "base": "場所",
+        "reading": "ばしょ"
+      },
+      {
+        "base": "では",
+        "reading": null
+      },
+      {
+        "base": "転回",
+        "reading": "てんかい"
+      },
+      {
+        "base": "(\nUターン)してはいけません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 30,
+    "answer": false,
+    "image": null,
+    "question_plain": "道路の端から発進する場合は、後方から車が来ないことを確かめれば、とくに合図をする必要はない。",
+    "explanation_plain": "道路の端から発進する場合は右へ進路を変えるのと同じであり、右合図が必要です。",
+    "question_ruby": [
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "端",
+        "reading": "はし"
+      },
+      {
+        "base": "から",
+        "reading": null
+      },
+      {
+        "base": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "後方",
+        "reading": "こうほう"
+      },
+      {
+        "base": "から",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "来",
+        "reading": "こ"
+      },
+      {
+        "base": "ないことを",
+        "reading": null
+      },
+      {
+        "base": "確",
+        "reading": "たし"
+      },
+      {
+        "base": "かめれば、とくに",
+        "reading": null
+      },
+      {
+        "base": "合図",
+        "reading": "あいず"
+      },
+      {
+        "base": "をする",
+        "reading": null
+      },
+      {
+        "base": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "base": "はない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "端",
+        "reading": "はし"
+      },
+      {
+        "base": "から",
+        "reading": null
+      },
+      {
+        "base": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "右",
+        "reading": "みぎ"
+      },
+      {
+        "base": "へ",
+        "reading": null
+      },
+      {
+        "base": "進路",
+        "reading": "しんろ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "変",
+        "reading": "か"
+      },
+      {
+        "base": "えるのと",
+        "reading": null
+      },
+      {
+        "base": "同",
+        "reading": "おな"
+      },
+      {
+        "base": "じで\nあり、",
+        "reading": null
+      },
+      {
+        "base": "右合図",
+        "reading": "みぎあいず"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "base": "です。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 31,
+    "answer": false,
+    "image": null,
+    "question_plain": "二輪車のチェーンは、中央部を指で押したとき、ゆるみがなくピーンと張っているのがよい。",
+    "explanation_plain": "二輪車のチェーンにゆるみがないと切れるおそれがあるので、チェーンには適度なゆるみが必要です。",
+    "question_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "のチェーンは、",
+        "reading": null
+      },
+      {
+        "base": "中央部",
+        "reading": "ちゅうおうぶ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "指",
+        "reading": "ゆび"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "押",
+        "reading": "お"
+      },
+      {
+        "base": "したとき、ゆるみがなくピーンと",
+        "reading": null
+      },
+      {
+        "base": "張",
+        "reading": "は"
+      },
+      {
+        "base": "っているのがよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "のチェーンにゆるみがないと",
+        "reading": null
+      },
+      {
+        "base": "切",
+        "reading": "き"
+      },
+      {
+        "base": "れるおそれがあるので、チェーンには",
+        "reading": null
+      },
+      {
+        "base": "適度",
+        "reading": "てきど"
+      },
+      {
+        "base": "なゆるみが",
+        "reading": null
+      },
+      {
+        "base": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "base": "です。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 32,
+    "answer": true,
+    "image": null,
+    "question_plain": "横断歩道に近づいたとき、歩行者が手を上げて左側から渡ろうとしていたので、速度を落として横断歩道の直前で停止した。",
+    "explanation_plain": "横断歩道を歩行者が横断しようとしているときは、その直前で停止します。",
+    "question_ruby": [
+      {
+        "base": "横断歩道",
+        "reading": "おうだんほどう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "近",
+        "reading": "ちか"
+      },
+      {
+        "base": "づいたとき、",
+        "reading": null
+      },
+      {
+        "base": "歩行者",
+        "reading": "ほこうしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "手",
+        "reading": "て"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "上",
+        "reading": "あ"
+      },
+      {
+        "base": "げて",
+        "reading": null
+      },
+      {
+        "base": "左側",
+        "reading": "ひだりがわ"
+      },
+      {
+        "base": "から",
+        "reading": null
+      },
+      {
+        "base": "渡",
+        "reading": "わた"
+      },
+      {
+        "base": "ろうとしていたので、",
+        "reading": null
+      },
+      {
+        "base": "速度",
+        "reading": "そくど"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "落",
+        "reading": "お"
+      },
+      {
+        "base": "として",
+        "reading": null
+      },
+      {
+        "base": "横断歩道",
+        "reading": "おうだんほどう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "直前",
+        "reading": "ちょくぜん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "停止",
+        "reading": "ていし"
+      },
+      {
+        "base": "した。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "横断歩道",
+        "reading": "おうだんほどう"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "歩行者",
+        "reading": "ほこうしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "横断",
+        "reading": "おうだん"
+      },
+      {
+        "base": "しようとしているときは、その",
+        "reading": null
+      },
+      {
+        "base": "直前",
+        "reading": "ちょくぜん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "停止",
+        "reading": "ていし"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 33,
+    "answer": false,
+    "image": null,
+    "question_plain": "前方の交差点で警察官が信号機の信号と異なる手信号をしていたが、前方の信号の表示が青色の灯火であれば、ほかの交通に注意して進行することができる。",
+    "explanation_plain": "警察官が信号機と異なる手信号をしている場合は、警察官の手信号に従います。",
+    "question_ruby": [
+      {
+        "base": "前方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "警察官",
+        "reading": "けいさつかん"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "信号機",
+        "reading": "しんごうき"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "信号",
+        "reading": "しんごう"
+      },
+      {
+        "base": "と",
+        "reading": null
+      },
+      {
+        "base": "異",
+        "reading": "こと"
+      },
+      {
+        "base": "なる",
+        "reading": null
+      },
+      {
+        "base": "手信号",
+        "reading": "てしんごう"
+      },
+      {
+        "base": "をしてい\nたが、",
+        "reading": null
+      },
+      {
+        "base": "前方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "信号",
+        "reading": "しんごう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "表示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "青色",
+        "reading": "あおいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "であれば、ほかの",
+        "reading": null
+      },
+      {
+        "base": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "base": "に\n",
+        "reading": null
+      },
+      {
+        "base": "注意",
+        "reading": "ちゅうい"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "進行",
+        "reading": "しんこう"
+      },
+      {
+        "base": "することができる。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "警察官",
+        "reading": "けいさつかん"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "信号機",
+        "reading": "しんごうき"
+      },
+      {
+        "base": "と",
+        "reading": null
+      },
+      {
+        "base": "異",
+        "reading": "こと"
+      },
+      {
+        "base": "なる",
+        "reading": null
+      },
+      {
+        "base": "手信号",
+        "reading": "てしんごう"
+      },
+      {
+        "base": "をしている",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "警察官",
+        "reading": "けいさつかん"
+      },
+      {
+        "base": "\nの",
+        "reading": null
+      },
+      {
+        "base": "手信号",
+        "reading": "てしんごう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "従",
+        "reading": "したが"
+      },
+      {
+        "base": "います。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 34,
+    "answer": true,
+    "image": "3-7.png",
+    "question_plain": "図7の標識は、一般原動機付自転車が右折するとき、交差点の側端に沿って通行し、二段階右折をしなければならないことを表している。",
+    "explanation_plain": "図7は「一般原動機付自転車の右折方法(二段階)」を表し、一般原動機付自転車は交差点で二段階右折しなければなりません。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "7の",
+        "reading": null
+      },
+      {
+        "base": "標識",
+        "reading": "ひょうしき"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "右折",
+        "reading": "うせつ"
+      },
+      {
+        "base": "する\nとき、",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "側端",
+        "reading": "そくたん"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "沿",
+        "reading": "そ"
+      },
+      {
+        "base": "って",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "し、",
+        "reading": null
+      },
+      {
+        "base": "二段階右\n折",
+        "reading": "にだんかいうせつ"
+      },
+      {
+        "base": "をしなければならないことを",
+        "reading": null
+      },
+      {
+        "base": "表",
+        "reading": "あらわ"
+      },
+      {
+        "base": "している。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "7は「",
+        "reading": null
+      },
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "右折方法",
+        "reading": "うせつほうほう"
+      },
+      {
+        "base": "（",
+        "reading": null
+      },
+      {
+        "base": "二段階",
+        "reading": "にだんかい"
+      },
+      {
+        "base": "）」を",
+        "reading": null
+      },
+      {
+        "base": "表",
+        "reading": "あらわ"
+      },
+      {
+        "base": "し、\n",
+        "reading": null
+      },
+      {
+        "base": "一般原動機付自転車",
+        "reading": "いっぱんげんどうきつきじてんしゃ"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "二段階右折",
+        "reading": "にだんかいうせつ"
+      },
+      {
+        "base": "しなければなり\nません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 35,
+    "answer": false,
+    "image": null,
+    "question_plain": "信号の青色の灯火は進めの命令であるから、対面した車は、前方の交通に関係なく発進するべきである。",
+    "explanation_plain": "交差点の先が混雑していて、そのまま進むと交差点内で停止するおそれがあるときは、発進してはいけません。",
+    "question_ruby": [
+      {
+        "base": "信号",
+        "reading": "しんごう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "青色",
+        "reading": "あおいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "進",
+        "reading": "すす"
+      },
+      {
+        "base": "めの",
+        "reading": null
+      },
+      {
+        "base": "命令",
+        "reading": "めいれい"
+      },
+      {
+        "base": "であるから、",
+        "reading": null
+      },
+      {
+        "base": "対面",
+        "reading": "たいめん"
+      },
+      {
+        "base": "した",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "前\n方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "base": "なく",
+        "reading": null
+      },
+      {
+        "base": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "base": "するべきである。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "先",
+        "reading": "さき"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "混雑",
+        "reading": "こんざつ"
+      },
+      {
+        "base": "していて、そのまま",
+        "reading": null
+      },
+      {
+        "base": "進",
+        "reading": "すす"
+      },
+      {
+        "base": "むと",
+        "reading": null
+      },
+      {
+        "base": "交差点内",
+        "reading": "こうさてんない"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "停\n止",
+        "reading": "ていし"
+      },
+      {
+        "base": "するおそれがあるときは、",
+        "reading": null
+      },
+      {
+        "base": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "base": "してはいけません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 36,
+    "answer": true,
+    "image": null,
+    "question_plain": "車の右側に3.5メートル以上の余地がない道路に、荷物の積みおろしで運転者がすぐ運転できる状態で、10分間駐車した。",
+    "explanation_plain": "荷物の積みおろしで運転者がすぐ運転できる状態の場合は、3.5メートル以上の余地がなくても止められます。",
+    "question_ruby": [
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "右側",
+        "reading": "みぎがわ"
+      },
+      {
+        "base": "に3.5メートル",
+        "reading": null
+      },
+      {
+        "base": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "余地",
+        "reading": "よち"
+      },
+      {
+        "base": "がない",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "に、",
+        "reading": null
+      },
+      {
+        "base": "荷物",
+        "reading": "にもつ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "積",
+        "reading": "つ"
+      },
+      {
+        "base": "み\nおろしで",
+        "reading": null
+      },
+      {
+        "base": "運転者",
+        "reading": "うんてんしゃ"
+      },
+      {
+        "base": "がすぐ",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "できる",
+        "reading": null
+      },
+      {
+        "base": "状態",
+        "reading": "じょうたい"
+      },
+      {
+        "base": "で、10",
+        "reading": null
+      },
+      {
+        "base": "分間駐車",
+        "reading": "ふんかんちゅうしゃ"
+      },
+      {
+        "base": "した。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "荷物",
+        "reading": "にもつ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "積",
+        "reading": "つ"
+      },
+      {
+        "base": "みおろしで",
+        "reading": null
+      },
+      {
+        "base": "運転者",
+        "reading": "うんてんしゃ"
+      },
+      {
+        "base": "がすぐ",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "できる",
+        "reading": null
+      },
+      {
+        "base": "状態",
+        "reading": "じょうたい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "\nは、3.5メートル",
+        "reading": null
+      },
+      {
+        "base": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "余地",
+        "reading": "よち"
+      },
+      {
+        "base": "がなくても",
+        "reading": null
+      },
+      {
+        "base": "止",
+        "reading": "と"
+      },
+      {
+        "base": "められます。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 37,
+    "answer": false,
+    "image": null,
+    "question_plain": "踏切の信号機が青色の灯火を表示していても、車は直前で一時停止しなければならない。",
+    "explanation_plain": "青色の灯火信号を表示している踏切では、左右の安全を確かめれば一時停止する必要はありません。",
+    "question_ruby": [
+      {
+        "base": "踏切",
+        "reading": "ふみきり"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "信号機",
+        "reading": "しんごうき"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "青色",
+        "reading": "あおいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火",
+        "reading": "とうか"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "表示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "していても、",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "直前",
+        "reading": "ちょくぜん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "一\n時停止",
+        "reading": "いちじていし"
+      },
+      {
+        "base": "しなければならない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "青色",
+        "reading": "あおいろ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "灯火信号",
+        "reading": "とうかしんごう"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "表示",
+        "reading": "ひょうじ"
+      },
+      {
+        "base": "している",
+        "reading": null
+      },
+      {
+        "base": "踏切",
+        "reading": "ふみきり"
+      },
+      {
+        "base": "では、",
+        "reading": null
+      },
+      {
+        "base": "左右",
+        "reading": "さゆう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "確",
+        "reading": "たし"
+      },
+      {
+        "base": "かめれば",
+        "reading": null
+      },
+      {
+        "base": "一時停止",
+        "reading": "いちじていし"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "base": "はありません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 38,
+    "answer": true,
+    "image": null,
+    "question_plain": "車を運転するときは、道路や交差点の状況を確実に認知しないと安全な運転はできないが、認知の大半は見ることにより得られるので、人の感覚の中で視覚が最も重要である。",
+    "explanation_plain": "認知の多くは見ることにより得られるので、車の運転で最も重要な感覚は視覚です。",
+    "question_ruby": [
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "するときは、",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "状況",
+        "reading": "じょうきょう"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "確実",
+        "reading": "かくじつ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "認知",
+        "reading": "にんち"
+      },
+      {
+        "base": "しない\nと",
+        "reading": null
+      },
+      {
+        "base": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "はできないが、",
+        "reading": null
+      },
+      {
+        "base": "認知",
+        "reading": "にんち"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "大半",
+        "reading": "たいはん"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "ることにより",
+        "reading": null
+      },
+      {
+        "base": "得",
+        "reading": "え"
+      },
+      {
+        "base": "ら\nれるので、",
+        "reading": null
+      },
+      {
+        "base": "人",
+        "reading": "ひと"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "感覚",
+        "reading": "かんかく"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "中",
+        "reading": "なか"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "視覚",
+        "reading": "しかく"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "最",
+        "reading": "もっと"
+      },
+      {
+        "base": "も",
+        "reading": null
+      },
+      {
+        "base": "重要",
+        "reading": "じゅうよう"
+      },
+      {
+        "base": "である。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "認知",
+        "reading": "にんち"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "多",
+        "reading": "おお"
+      },
+      {
+        "base": "くは",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "ることにより",
+        "reading": null
+      },
+      {
+        "base": "得",
+        "reading": "え"
+      },
+      {
+        "base": "られるので、",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "最",
+        "reading": "もっと"
+      },
+      {
+        "base": "も",
+        "reading": null
+      },
+      {
+        "base": "重要",
+        "reading": "じゅうよう"
+      },
+      {
+        "base": "な",
+        "reading": null
+      },
+      {
+        "base": "感覚",
+        "reading": "かんかく"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "視覚",
+        "reading": "しかく"
+      },
+      {
+        "base": "です。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 39,
+    "answer": true,
+    "image": "3-8.png",
+    "question_plain": "図8の標識のあるところでは、車は左折しかすることができない。",
+    "explanation_plain": "図8は「指定方向外進行禁止」で、矢印の方向しか進めないので左折しかできません。",
+    "question_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "8の",
+        "reading": null
+      },
+      {
+        "base": "標識",
+        "reading": "ひょうしき"
+      },
+      {
+        "base": "のあるところでは、",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "左折",
+        "reading": "させつ"
+      },
+      {
+        "base": "しかす\nることができない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "8は「",
+        "reading": null
+      },
+      {
+        "base": "指定方向外進行禁止",
+        "reading": "していほうこうがいしんこうきんし"
+      },
+      {
+        "base": "」で、",
+        "reading": null
+      },
+      {
+        "base": "矢印",
+        "reading": "やじるし"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "方向",
+        "reading": "ほうこう"
+      },
+      {
+        "base": "しか",
+        "reading": null
+      },
+      {
+        "base": "進",
+        "reading": "すす"
+      },
+      {
+        "base": "めない\nので",
+        "reading": null
+      },
+      {
+        "base": "左折",
+        "reading": "させつ"
+      },
+      {
+        "base": "しかできません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 40,
+    "answer": false,
+    "image": null,
+    "question_plain": "交差点で右折しようとしたとき、対向する右折車のかげに自動二輪車が見えたが、速度も遅く遠くに見えたのでそのまま進行した。",
+    "explanation_plain": "二輪車は遠くに見えてもすぐ接近してくることがあるので一時停止します。",
+    "question_ruby": [
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "右折",
+        "reading": "うせつ"
+      },
+      {
+        "base": "しようとしたとき、",
+        "reading": null
+      },
+      {
+        "base": "対向",
+        "reading": "たいこう"
+      },
+      {
+        "base": "する",
+        "reading": null
+      },
+      {
+        "base": "右折車",
+        "reading": "うせつしゃ"
+      },
+      {
+        "base": "のかげに",
+        "reading": null
+      },
+      {
+        "base": "自動二\n輪車",
+        "reading": "じどうにりんしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "えたが、",
+        "reading": null
+      },
+      {
+        "base": "速度",
+        "reading": "そくど"
+      },
+      {
+        "base": "も",
+        "reading": null
+      },
+      {
+        "base": "遅",
+        "reading": "おそ"
+      },
+      {
+        "base": "く",
+        "reading": null
+      },
+      {
+        "base": "遠",
+        "reading": "とお"
+      },
+      {
+        "base": "くに",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "えたのでそのまま",
+        "reading": null
+      },
+      {
+        "base": "進行",
+        "reading": "しんこう"
+      },
+      {
+        "base": "した。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "は",
+        "reading": null
+      },
+      {
+        "base": "遠",
+        "reading": "とお"
+      },
+      {
+        "base": "くに",
+        "reading": null
+      },
+      {
+        "base": "見",
+        "reading": "み"
+      },
+      {
+        "base": "えてもすぐ",
+        "reading": null
+      },
+      {
+        "base": "接近",
+        "reading": "せっきん"
+      },
+      {
+        "base": "してくることがあるので\n",
+        "reading": null
+      },
+      {
+        "base": "一時停止",
+        "reading": "いちじていし"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 41,
+    "answer": true,
+    "image": null,
+    "question_plain": "二輪車を運転中、ハンドルを切りながら前輪ブレーキを強くかけると転倒しやすい。",
+    "explanation_plain": "ハンドルを切りながら前輪ブレーキを強くかけると、転倒しやすく危険です。",
+    "question_ruby": [
+      {
+        "base": "二輪車",
+        "reading": "にりんしゃ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "運転中",
+        "reading": "うんてんちゅう"
+      },
+      {
+        "base": "、ハンドルを",
+        "reading": null
+      },
+      {
+        "base": "切",
+        "reading": "き"
+      },
+      {
+        "base": "りながら",
+        "reading": null
+      },
+      {
+        "base": "前輪",
+        "reading": "ぜんりん"
+      },
+      {
+        "base": "ブレーキを",
+        "reading": null
+      },
+      {
+        "base": "強",
+        "reading": "つよ"
+      },
+      {
+        "base": "くか\nけると",
+        "reading": null
+      },
+      {
+        "base": "転倒",
+        "reading": "てんとう"
+      },
+      {
+        "base": "しやすい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "ハンドルを",
+        "reading": null
+      },
+      {
+        "base": "切",
+        "reading": "き"
+      },
+      {
+        "base": "りながら",
+        "reading": null
+      },
+      {
+        "base": "前輪",
+        "reading": "ぜんりん"
+      },
+      {
+        "base": "ブレーキを",
+        "reading": null
+      },
+      {
+        "base": "強",
+        "reading": "つよ"
+      },
+      {
+        "base": "くかけると、",
+        "reading": null
+      },
+      {
+        "base": "転倒",
+        "reading": "てんとう"
+      },
+      {
+        "base": "しやすく",
+        "reading": null
+      },
+      {
+        "base": "危険",
+        "reading": "きけん"
+      },
+      {
+        "base": "です。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 42,
+    "answer": false,
+    "image": null,
+    "question_plain": "横断歩道の手前に停止している車があるときは、車のかげから歩行者が急に飛び出してくるおそれがあるので、前方に出る前に徐行して安全を確かめなければならない。",
+    "explanation_plain": "停止車両の前方に出る前に一時停止して、安全を確かめなければなりません。",
+    "question_ruby": [
+      {
+        "base": "横断歩道",
+        "reading": "おうだんほどう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "手前",
+        "reading": "てまえ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "停止",
+        "reading": "ていし"
+      },
+      {
+        "base": "している",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "があるときは、",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "のかげから\n",
+        "reading": null
+      },
+      {
+        "base": "歩行者",
+        "reading": "ほこうしゃ"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "急",
+        "reading": "きゅう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "飛",
+        "reading": "と"
+      },
+      {
+        "base": "び",
+        "reading": null
+      },
+      {
+        "base": "出",
+        "reading": "で"
+      },
+      {
+        "base": "してくるおそれがあるので、",
+        "reading": null
+      },
+      {
+        "base": "前方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "出",
+        "reading": "で"
+      },
+      {
+        "base": "る",
+        "reading": null
+      },
+      {
+        "base": "前",
+        "reading": "まえ"
+      },
+      {
+        "base": "に\n",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "確",
+        "reading": "たし"
+      },
+      {
+        "base": "かめなければならない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "停止車両",
+        "reading": "ていししゃりょう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "前方",
+        "reading": "ぜんぽう"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "出",
+        "reading": "で"
+      },
+      {
+        "base": "る",
+        "reading": null
+      },
+      {
+        "base": "前",
+        "reading": "まえ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "一時停止",
+        "reading": "いちじていし"
+      },
+      {
+        "base": "して、",
+        "reading": null
+      },
+      {
+        "base": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "確",
+        "reading": "たし"
+      },
+      {
+        "base": "かめな\nければなりません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 43,
+    "answer": true,
+    "image": null,
+    "question_plain": "車の所有者は、酒を飲んでいる人や無免許の人に車を貸してはならない。",
+    "explanation_plain": "設問のような責任は、車の所有者にも問われる場合があります。",
+    "question_ruby": [
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "所有者",
+        "reading": "しょゆうしゃ"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "酒",
+        "reading": "さけ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "飲",
+        "reading": "の"
+      },
+      {
+        "base": "んでいる",
+        "reading": null
+      },
+      {
+        "base": "人",
+        "reading": "ひと"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "無免許",
+        "reading": "むめんきょ"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "人",
+        "reading": "ひと"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "貸",
+        "reading": "か"
+      },
+      {
+        "base": "しては\nならない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "設問",
+        "reading": "せつもん"
+      },
+      {
+        "base": "のような",
+        "reading": null
+      },
+      {
+        "base": "責任",
+        "reading": "せきにん"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "車",
+        "reading": "くるま"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "所有者",
+        "reading": "しょゆうしゃ"
+      },
+      {
+        "base": "にも",
+        "reading": null
+      },
+      {
+        "base": "問",
+        "reading": "と"
+      },
+      {
+        "base": "われる",
+        "reading": null
+      },
+      {
+        "base": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "base": "があり\nます。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 44,
+    "answer": false,
+    "image": "3-9.png",
+    "question_plain": "原動機付自転車は、7時から9時まで、図9の通行帯を通行することができない。",
+    "explanation_plain": "原動機付自転車、小型特殊自動車、軽車両は、路線バス等の専用通行帯を終日、通行できます。",
+    "question_ruby": [
+      {
+        "base": "原動機付自転車",
+        "reading": "げんどうきつきじてんしゃ"
+      },
+      {
+        "base": "は、7",
+        "reading": null
+      },
+      {
+        "base": "時",
+        "reading": "じ"
+      },
+      {
+        "base": "から9",
+        "reading": null
+      },
+      {
+        "base": "時",
+        "reading": "じ"
+      },
+      {
+        "base": "まで、",
+        "reading": null
+      },
+      {
+        "base": "図",
+        "reading": "ず"
+      },
+      {
+        "base": "9の",
+        "reading": null
+      },
+      {
+        "base": "通行帯",
+        "reading": "つうこうたい"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "することができない。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "原動機付自転車",
+        "reading": "げんどうきつきじてんしゃ"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "小型特殊自動車",
+        "reading": "こがたとくしゅじどうしゃ"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "軽車両",
+        "reading": "けいしゃりょう"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "路線",
+        "reading": "ろせん"
+      },
+      {
+        "base": "バス",
+        "reading": null
+      },
+      {
+        "base": "等",
+        "reading": "とう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "専用通行帯",
+        "reading": "せんようつうこうたい"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "終日",
+        "reading": "しゅうじつ"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "通行",
+        "reading": "つうこう"
+      },
+      {
+        "base": "できます。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 45,
+    "answer": true,
+    "image": null,
+    "question_plain": "交差点付近以外の道路で緊急自動車に進路を譲るときは、必ずしも一時停止や徐行をしなくてよい。",
+    "explanation_plain": "交差点やその付近以外では、左側に寄って緊急自動車に進路を譲ります。一時停止や徐行の必要はありません。",
+    "question_ruby": [
+      {
+        "base": "交差点付近以外",
+        "reading": "こうさてんふきんいがい"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "で",
+        "reading": null
+      },
+      {
+        "base": "緊急自動車",
+        "reading": "きんきゅうじどうしゃ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "進路",
+        "reading": "しんろ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "譲",
+        "reading": "ゆず"
+      },
+      {
+        "base": "るときは、",
+        "reading": null
+      },
+      {
+        "base": "必",
+        "reading": "かなら"
+      },
+      {
+        "base": "ずしも",
+        "reading": null
+      },
+      {
+        "base": "一時停止",
+        "reading": "いちじていし"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "をしなくてよい。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "やその",
+        "reading": null
+      },
+      {
+        "base": "付近以外",
+        "reading": "ふきんいがい"
+      },
+      {
+        "base": "では、",
+        "reading": null
+      },
+      {
+        "base": "左側",
+        "reading": "ひだりがわ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "寄",
+        "reading": "よ"
+      },
+      {
+        "base": "って",
+        "reading": null
+      },
+      {
+        "base": "緊急自動車",
+        "reading": "きんきゅうじどうしゃ"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "進路",
+        "reading": "しんろ"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "譲",
+        "reading": "ゆず"
+      },
+      {
+        "base": "ります。",
+        "reading": null
+      },
+      {
+        "base": "一時停止",
+        "reading": "いちじていし"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "徐行",
+        "reading": "じょこう"
+      },
+      {
+        "base": "の",
+        "reading": null
+      },
+      {
+        "base": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "base": "はありません。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "standard",
+    "number": 46,
+    "answer": true,
+    "image": null,
+    "question_plain": "夜間は、昼間に比べて視界が悪く、歩行者や自転車などの発見が遅れるので、同じ道路でも昼間より速度を落として運転する。",
+    "explanation_plain": "夜間は、昼間に比べて視界が悪いので、昼間より速度を落として運転します。",
+    "question_ruby": [
+      {
+        "base": "夜間",
+        "reading": "やかん"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "昼間",
+        "reading": "ひるま"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "比",
+        "reading": "くら"
+      },
+      {
+        "base": "べて",
+        "reading": null
+      },
+      {
+        "base": "視界",
+        "reading": "しかい"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "悪",
+        "reading": "わる"
+      },
+      {
+        "base": "く、",
+        "reading": null
+      },
+      {
+        "base": "歩行者",
+        "reading": "ほこうしゃ"
+      },
+      {
+        "base": "や",
+        "reading": null
+      },
+      {
+        "base": "自転車",
+        "reading": "じてんしゃ"
+      },
+      {
+        "base": "などの",
+        "reading": null
+      },
+      {
+        "base": "発見",
+        "reading": "はっけん"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "遅",
+        "reading": "おく"
+      },
+      {
+        "base": "れるので、",
+        "reading": null
+      },
+      {
+        "base": "同",
+        "reading": "おな"
+      },
+      {
+        "base": "じ",
+        "reading": null
+      },
+      {
+        "base": "道路",
+        "reading": "どうろ"
+      },
+      {
+        "base": "でも",
+        "reading": null
+      },
+      {
+        "base": "昼間",
+        "reading": "ひるま"
+      },
+      {
+        "base": "より",
+        "reading": null
+      },
+      {
+        "base": "速度",
+        "reading": "そくど"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "落",
+        "reading": "お"
+      },
+      {
+        "base": "として",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "する。",
+        "reading": null
+      }
+    ],
+    "explanation_ruby": [
+      {
+        "base": "夜間",
+        "reading": "やかん"
+      },
+      {
+        "base": "は、",
+        "reading": null
+      },
+      {
+        "base": "昼間",
+        "reading": "ひるま"
+      },
+      {
+        "base": "に",
+        "reading": null
+      },
+      {
+        "base": "比",
+        "reading": "くら"
+      },
+      {
+        "base": "べて",
+        "reading": null
+      },
+      {
+        "base": "視界",
+        "reading": "しかい"
+      },
+      {
+        "base": "が",
+        "reading": null
+      },
+      {
+        "base": "悪",
+        "reading": "わる"
+      },
+      {
+        "base": "いので、",
+        "reading": null
+      },
+      {
+        "base": "昼間",
+        "reading": "ひるま"
+      },
+      {
+        "base": "より",
+        "reading": null
+      },
+      {
+        "base": "速度",
+        "reading": "そくど"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "落",
+        "reading": "お"
+      },
+      {
+        "base": "として",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "します。",
+        "reading": null
+      }
+    ]
+  },
+  {
+    "type": "illustration_group",
+    "number": 47,
+    "stem_plain": "夜間、交差点を右折するため時速10キロメートルまで減速しました。どのようなことに注意して運転しますか？",
+    "stem_ruby": [
+      {
+        "base": "夜間",
+        "reading": "やかん"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "交差点",
+        "reading": "こうさてん"
+      },
+      {
+        "base": "を",
+        "reading": null
+      },
+      {
+        "base": "右折",
+        "reading": "うせつ"
+      },
+      {
+        "base": "するため",
+        "reading": null
+      },
+      {
+        "base": "時速",
+        "reading": "じそく"
+      },
+      {
+        "base": "10キロメートルまで",
+        "reading": null
+      },
+      {
+        "base": "減速",
+        "reading": "げんそく"
+      },
+      {
+        "base": "しました。どのようなことに",
+        "reading": null
+      },
+      {
+        "base": "注意",
+        "reading": "ちゅうい"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "しますか？",
+        "reading": null
+      }
+    ],
+    "image": "3-10.png",
+    "focus_points_plain": [
+      "横断歩道手前の歩行者の動き",
+      "反対方向から来る自転車の動き",
+      "ライトの範囲外の人などの有無",
+      "対向車のかげの状況"
+    ],
+    "focus_points_ruby": [
+      [
+        {
+          "base": "横断歩道手前",
+          "reading": "おうだんほどうてまえ"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "歩行者",
+          "reading": "ほこうしゃ"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "動",
+          "reading": "うご"
+        },
+        {
+          "base": "き",
+          "reading": null
+        }
+      ],
+      [
+        {
+          "base": "反対方向",
+          "reading": "はんたいほうこう"
+        },
+        {
+          "base": "から",
+          "reading": null
+        },
+        {
+          "base": "来",
+          "reading": "く"
+        },
+        {
+          "base": "る",
+          "reading": null
+        },
+        {
+          "base": "自転車",
+          "reading": "じてんしゃ"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "動",
+          "reading": "うご"
+        },
+        {
+          "base": "き",
+          "reading": null
+        }
+      ],
+      [
+        {
+          "base": "ライトの",
+          "reading": null
+        },
+        {
+          "base": "範囲外",
+          "reading": "はんいがい"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "人",
+          "reading": "ひと"
+        },
+        {
+          "base": "などの",
+          "reading": null
+        },
+        {
+          "base": "有無",
+          "reading": "うむ"
+        }
+      ],
+      [
+        {
+          "base": "対向車",
+          "reading": "たいこうしゃ"
+        },
+        {
+          "base": "のかげの",
+          "reading": null
+        },
+        {
+          "base": "状況",
+          "reading": "じょうきょう"
+        }
+      ]
+    ],
+    "children": [
+      {
+        "sub_number": 1,
+        "question_plain": "自転車は、右側の横断歩道を横断すると思われるので、交差点の中心付近で一時停止して、その通過を待つ。",
+        "question_ruby": [
+          {
+            "base": "自転車",
+            "reading": "じてんしゃ"
+          },
+          {
+            "base": "は、",
+            "reading": null
+          },
+          {
+            "base": "右側",
+            "reading": "みぎがわ"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "横断歩道",
+            "reading": "おうだんほどう"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "横断",
+            "reading": "おうだん"
+          },
+          {
+            "base": "すると",
+            "reading": null
+          },
+          {
+            "base": "思",
+            "reading": "おも"
+          },
+          {
+            "base": "われるので、",
+            "reading": null
+          },
+          {
+            "base": "交差点",
+            "reading": "こうさてん"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "中心付近",
+            "reading": "ちゅうしんふきん"
+          },
+          {
+            "base": "で",
+            "reading": null
+          },
+          {
+            "base": "一時停止",
+            "reading": "いちじていし"
+          },
+          {
+            "base": "して、その",
+            "reading": null
+          },
+          {
+            "base": "通過",
+            "reading": "つうか"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "待",
+            "reading": "ま"
+          },
+          {
+            "base": "つ。",
+            "reading": null
+          }
+        ],
+        "answer": true,
+        "explanation_plain": "自転車の横断に備えて、一時停止して通過を待ちます。",
+        "explanation_ruby": [
+          {
+            "base": "自転車",
+            "reading": "じてんしゃ"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "横断",
+            "reading": "おうだん"
+          },
+          {
+            "base": "に",
+            "reading": null
+          },
+          {
+            "base": "備",
+            "reading": "そな"
+          },
+          {
+            "base": "えて、",
+            "reading": null
+          },
+          {
+            "base": "一時停止",
+            "reading": "いちじていし"
+          },
+          {
+            "base": "して",
+            "reading": null
+          },
+          {
+            "base": "通過",
+            "reading": "つうか"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "待",
+            "reading": "ま"
+          },
+          {
+            "base": "ちます。",
+            "reading": null
+          }
+        ]
+      },
+      {
+        "sub_number": 2,
+        "question_plain": "前方の状況がよくわからないので、対向車のかげから二輪車などが飛び出してこないか、少し前に出て一時停止し、安全を確認する。",
+        "question_ruby": [
+          {
+            "base": "前方",
+            "reading": "ぜんぽう"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "状況",
+            "reading": "じょうきょう"
+          },
+          {
+            "base": "がよくわからないので、",
+            "reading": null
+          },
+          {
+            "base": "対向車",
+            "reading": "たいこうしゃ"
+          },
+          {
+            "base": "のかげから",
+            "reading": null
+          },
+          {
+            "base": "二輪車",
+            "reading": "にりんしゃ"
+          },
+          {
+            "base": "などが",
+            "reading": null
+          },
+          {
+            "base": "飛",
+            "reading": "と"
+          },
+          {
+            "base": "び",
+            "reading": null
+          },
+          {
+            "base": "出",
+            "reading": "だ"
+          },
+          {
+            "base": "してこないか、",
+            "reading": null
+          },
+          {
+            "base": "少",
+            "reading": "すこ"
+          },
+          {
+            "base": "し",
+            "reading": null
+          },
+          {
+            "base": "前",
+            "reading": "まえ"
+          },
+          {
+            "base": "に",
+            "reading": null
+          },
+          {
+            "base": "出",
+            "reading": "で"
+          },
+          {
+            "base": "て",
+            "reading": null
+          },
+          {
+            "base": "一時停止",
+            "reading": "いちじていし"
+          },
+          {
+            "base": "し、",
+            "reading": null
+          },
+          {
+            "base": "安全",
+            "reading": "あんぜん"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "確認",
+            "reading": "かくにん"
+          },
+          {
+            "base": "する。",
+            "reading": null
+          }
+        ],
+        "answer": true,
+        "explanation_plain": "二輪車などの飛び出しに備え、一時停止して安全を確かめます。",
+        "explanation_ruby": [
+          {
+            "base": "二輪車",
+            "reading": "にりんしゃ"
+          },
+          {
+            "base": "などの",
+            "reading": null
+          },
+          {
+            "base": "飛",
+            "reading": "と"
+          },
+          {
+            "base": "び",
+            "reading": null
+          },
+          {
+            "base": "出",
+            "reading": "だ"
+          },
+          {
+            "base": "しに",
+            "reading": null
+          },
+          {
+            "base": "備",
+            "reading": "そな"
+          },
+          {
+            "base": "え、",
+            "reading": null
+          },
+          {
+            "base": "一時停止",
+            "reading": "いちじていし"
+          },
+          {
+            "base": "して",
+            "reading": null
+          },
+          {
+            "base": "安全",
+            "reading": "あんぜん"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "確",
+            "reading": "たし"
+          },
+          {
+            "base": "かめます。",
+            "reading": null
+          }
+        ]
+      },
+      {
+        "sub_number": 3,
+        "question_plain": "右側の横断歩道は自分の車が照らす前照灯の範囲の外なので、その全部をよく確認する。",
+        "question_ruby": [
+          {
+            "base": "右側",
+            "reading": "みぎがわ"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "横断歩道",
+            "reading": "おうだんほどう"
+          },
+          {
+            "base": "は",
+            "reading": null
+          },
+          {
+            "base": "自分",
+            "reading": "じぶん"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "車",
+            "reading": "くるま"
+          },
+          {
+            "base": "が",
+            "reading": null
+          },
+          {
+            "base": "照",
+            "reading": "て"
+          },
+          {
+            "base": "らす",
+            "reading": null
+          },
+          {
+            "base": "前照灯",
+            "reading": "ぜんしょうとう"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "範囲",
+            "reading": "はんい"
+          },
+          {
+            "base": "の",
+            "reading": null
+          },
+          {
+            "base": "外",
+            "reading": "そと"
+          },
+          {
+            "base": "なので、その",
+            "reading": null
+          },
+          {
+            "base": "全部",
+            "reading": "ぜんぶ"
+          },
+          {
+            "base": "をよく",
+            "reading": null
+          },
+          {
+            "base": "確認",
+            "reading": "かくにん"
+          },
+          {
+            "base": "する。",
+            "reading": null
+          }
+        ],
+        "answer": true,
+        "explanation_plain": "ライトの照らす範囲外にも目を向けて、安全を確かめます。",
+        "explanation_ruby": [
+          {
+            "base": "ライトの",
+            "reading": null
+          },
+          {
+            "base": "照",
+            "reading": "て"
+          },
+          {
+            "base": "らす",
+            "reading": null
+          },
+          {
+            "base": "範囲外",
+            "reading": "はんいがい"
+          },
+          {
+            "base": "にも",
+            "reading": null
+          },
+          {
+            "base": "目",
+            "reading": "め"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "向",
+            "reading": "む"
+          },
+          {
+            "base": "けて、",
+            "reading": null
+          },
+          {
+            "base": "安全",
+            "reading": "あんぜん"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "確",
+            "reading": "たし"
+          },
+          {
+            "base": "かめます。",
+            "reading": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "illustration_group",
+    "number": 48,
+    "stem_plain": "時速30キロメートルで進行中、駐車車両のある見通しの悪いカーブにさしかかりました。どのようなことに注意して運転しますか？",
+    "stem_ruby": [
+      {
+        "base": "時速",
+        "reading": "じそく"
+      },
+      {
+        "base": "30キロメートルで",
+        "reading": null
+      },
+      {
+        "base": "進行中",
+        "reading": "しんこうちゅう"
+      },
+      {
+        "base": "、",
+        "reading": null
+      },
+      {
+        "base": "駐車車両",
+        "reading": "ちゅうしゃしゃりょう"
+      },
+      {
+        "base": "のある",
+        "reading": null
+      },
+      {
+        "base": "見通",
+        "reading": "みとお"
+      },
+      {
+        "base": "しの",
+        "reading": null
+      },
+      {
+        "base": "悪",
+        "reading": "わる"
+      },
+      {
+        "base": "いカーブにさしかかりました。どのようなことに",
+        "reading": null
+      },
+      {
+        "base": "注意",
+        "reading": "ちゅうい"
+      },
+      {
+        "base": "して",
+        "reading": null
+      },
+      {
+        "base": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "base": "しますか？",
+        "reading": null
+      }
+    ],
+    "image": "3-11.png",
+    "focus_points_plain": [
+      "駐車車両の先の状況",
+      "反対方向から来る自転車の動き",
+      "カーブの先の対向車の有無"
+    ],
+    "focus_points_ruby": [
+      [
+        {
+          "base": "駐車車両",
+          "reading": "ちゅうしゃしゃりょう"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "先",
+          "reading": "さき"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "状況",
+          "reading": "じょうきょう"
+        }
+      ],
+      [
+        {
+          "base": "反対方向",
+          "reading": "はんたいほうこう"
+        },
+        {
+          "base": "から",
+          "reading": null
+        },
+        {
+          "base": "来",
+          "reading": "く"
+        },
+        {
+          "base": "る",
+          "reading": null
+        },
+        {
+          "base": "自転車",
+          "reading": "じてんしゃ"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "動",
+          "reading": "うご"
+        },
+        {
+          "base": "き",
+          "reading": null
+        }
+      ],
+      [
+        {
+          "base": "カーブの",
+          "reading": null
+        },
+        {
+          "base": "先",
+          "reading": "さき"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "対向車",
+          "reading": "たいこうしゃ"
+        },
+        {
+          "base": "の",
+          "reading": null
+        },
+        {
+          "base": "有無",
+          "reading": "うむ"
+        }
+      ]
+    ],
+    "children": [
+      {
+        "sub_number": 1,
+        "question_plain": "駐車車両でカーブの先が見えないので、対向車に注意しながら、減速して進行する。",
+        "question_ruby": [
+          {
+            "base": "駐車車両",
+            "reading": "ちゅうしゃしゃりょう"
+          },
+          {
+            "base": "でカーブの",
+            "reading": null
+          },
+          {
+            "base": "先",
+            "reading": "さき"
+          },
+          {
+            "base": "が",
+            "reading": null
+          },
+          {
+            "base": "見",
+            "reading": "み"
+          },
+          {
+            "base": "えないので、",
+            "reading": null
+          },
+          {
+            "base": "対向車",
+            "reading": "たいこうしゃ"
+          },
+          {
+            "base": "に",
+            "reading": null
+          },
+          {
+            "base": "注意",
+            "reading": "ちゅうい"
+          },
+          {
+            "base": "しながら、",
+            "reading": null
+          },
+          {
+            "base": "減速",
+            "reading": "げんそく"
+          },
+          {
+            "base": "して",
+            "reading": null
+          },
+          {
+            "base": "進行",
+            "reading": "しんこう"
+          },
+          {
+            "base": "する。",
+            "reading": null
+          }
+        ],
+        "answer": true,
+        "explanation_plain": "対向車に十分注意し、減速して進行します。",
+        "explanation_ruby": [
+          {
+            "base": "対向車",
+            "reading": "たいこうしゃ"
+          },
+          {
+            "base": "に",
+            "reading": null
+          },
+          {
+            "base": "十分注意",
+            "reading": "じゅうぶんちゅうい"
+          },
+          {
+            "base": "し、",
+            "reading": null
+          },
+          {
+            "base": "減速",
+            "reading": "げんそく"
+          },
+          {
+            "base": "して",
+            "reading": null
+          },
+          {
+            "base": "進行",
+            "reading": "しんこう"
+          },
+          {
+            "base": "します。",
+            "reading": null
+          }
+        ]
+      },
+      {
+        "sub_number": 2,
+        "question_plain": "自転車が急に横断するかもしれないので、警音器で注意を促し、加速して通過する。",
+        "question_ruby": [
+          {
+            "base": "自転車",
+            "reading": "じてんしゃ"
+          },
+          {
+            "base": "が",
+            "reading": null
+          },
+          {
+            "base": "急",
+            "reading": "きゅう"
+          },
+          {
+            "base": "に",
+            "reading": null
+          },
+          {
+            "base": "横断",
+            "reading": "おうだん"
+          },
+          {
+            "base": "するかもしれないので、",
+            "reading": null
+          },
+          {
+            "base": "警音器",
+            "reading": "けいおんき"
+          },
+          {
+            "base": "で",
+            "reading": null
+          },
+          {
+            "base": "注意",
+            "reading": "ちゅうい"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "促",
+            "reading": "うなが"
+          },
+          {
+            "base": "し、",
+            "reading": null
+          },
+          {
+            "base": "加速",
+            "reading": "かそく"
+          },
+          {
+            "base": "して",
+            "reading": null
+          },
+          {
+            "base": "通過",
+            "reading": "つうか"
+          },
+          {
+            "base": "する。",
+            "reading": null
+          }
+        ],
+        "answer": false,
+        "explanation_plain": "警音器は鳴らさず、減速して様子を見ます。",
+        "explanation_ruby": [
+          {
+            "base": "警音器",
+            "reading": "けいおんき"
+          },
+          {
+            "base": "は",
+            "reading": null
+          },
+          {
+            "base": "鳴",
+            "reading": "な"
+          },
+          {
+            "base": "らさず、",
+            "reading": null
+          },
+          {
+            "base": "減速",
+            "reading": "げんそく"
+          },
+          {
+            "base": "して",
+            "reading": null
+          },
+          {
+            "base": "様子",
+            "reading": "ようす"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "見",
+            "reading": "み"
+          },
+          {
+            "base": "ます。",
+            "reading": null
+          }
+        ]
+      },
+      {
+        "sub_number": 3,
+        "question_plain": "駐車車両のかげから、歩行者が飛び出してくるかもしれないので、中央線を大きくはみ出して進行する。",
+        "question_ruby": [
+          {
+            "base": "駐車車両",
+            "reading": "ちゅうしゃしゃりょう"
+          },
+          {
+            "base": "のかげから、",
+            "reading": null
+          },
+          {
+            "base": "歩行者",
+            "reading": "ほこうしゃ"
+          },
+          {
+            "base": "が",
+            "reading": null
+          },
+          {
+            "base": "飛",
+            "reading": "と"
+          },
+          {
+            "base": "び",
+            "reading": null
+          },
+          {
+            "base": "出",
+            "reading": "だ"
+          },
+          {
+            "base": "してくるかもしれないので、",
+            "reading": null
+          },
+          {
+            "base": "中央線",
+            "reading": "ちゅうおうせん"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "大",
+            "reading": "おお"
+          },
+          {
+            "base": "きくはみ",
+            "reading": null
+          },
+          {
+            "base": "出",
+            "reading": "だ"
+          },
+          {
+            "base": "して",
+            "reading": null
+          },
+          {
+            "base": "進行",
+            "reading": "しんこう"
+          },
+          {
+            "base": "する。",
+            "reading": null
+          }
+        ],
+        "answer": false,
+        "explanation_plain": "中央線を大きくはみ出すと、対向車が来て衝突するおそれがあります。",
+        "explanation_ruby": [
+          {
+            "base": "中央線",
+            "reading": "ちゅうおうせん"
+          },
+          {
+            "base": "を",
+            "reading": null
+          },
+          {
+            "base": "大",
+            "reading": "おお"
+          },
+          {
+            "base": "きくはみ",
+            "reading": null
+          },
+          {
+            "base": "出",
+            "reading": "だ"
+          },
+          {
+            "base": "すと、",
+            "reading": null
+          },
+          {
+            "base": "対向車",
+            "reading": "たいこうしゃ"
+          },
+          {
+            "base": "が",
+            "reading": null
+          },
+          {
+            "base": "来",
+            "reading": "き"
+          },
+          {
+            "base": "て",
+            "reading": null
+          },
+          {
+            "base": "衝突",
+            "reading": "しょうとつ"
+          },
+          {
+            "base": "するおそれがあります。",
+            "reading": null
+          }
+        ]
+      }
+    ]
+  }
+]
