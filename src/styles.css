@@ -13,6 +13,10 @@ html, body { margin: 0; }
 
 img { max-width: 100%; display: block; }
 
+/* Make <picture> invisible to the box model so the <img> inside
+   behaves exactly like a direct block child of its parent. */
+picture { display: contents; }
+
 button {
   border: 1px solid transparent;
   border-radius: 10px;
@@ -172,6 +176,8 @@ rt { user-select: none; }
 .btn-next {
   align-self: flex-end;
 }
+
+.btn-start { width: 100%; margin-top: 0.5rem; }
 
 .settings-panel { display: grid; gap: 0.65rem; }
 

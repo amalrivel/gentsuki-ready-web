@@ -347,7 +347,7 @@
     "type": "standard",
     "number": 4,
     "answer": false,
-    "image": "<unknown>",
+    "image": "3-1.png",
     "question_plain": "図1の標示は、前方の交差する道路に対して自分の通行しているAの道路が優先であることを表している。",
     "explanation_plain": "図1は「前方優先道路」の標示で、Aより前方の交差するほうが優先道路であることを表しています。",
     "question_ruby": [
@@ -959,7 +959,7 @@
     "type": "standard",
     "number": 9,
     "answer": true,
-    "image": "<unknown>",
+    "image": "3-2.png",
     "question_plain": "図2の標識は、大型自動二輪車や普通自動二輪車で二人乗りをして通行してはいけないことを表している。",
     "explanation_plain": "図2は、「大型自動二輪車および普通自動二輪車二人乗り通行禁止」を表します。",
     "question_ruby": [
@@ -1767,7 +1767,7 @@
     "type": "standard",
     "number": 14,
     "answer": false,
-    "image": "<unknown>",
+    "image": "3-3.png",
     "question_plain": "図3のような道幅が違う交差点では、B車はA車の進行を妨げてはならない。",
     "explanation_plain": "図3の交差点は幅が広い道路を通行しているB車が優先します。A車はB車の進行を妨げてはいけません。",
     "question_ruby": [
@@ -2423,7 +2423,7 @@
     "type": "standard",
     "number": 19,
     "answer": true,
-    "image": "<unknown>",
+    "image": "3-4.png",
     "question_plain": "図4の標識のある道路であっても、一般原動機付自転車は時速30キロメートルを超える速度で運転してはならない。",
     "explanation_plain": "「最高速度50キロ」の標識があっても、一般原動機付自転車は時速30キロメートルを超えてはいけません。",
     "question_ruby": [
@@ -3051,7 +3051,7 @@
     "type": "standard",
     "number": 24,
     "answer": true,
-    "image": "<unknown>",
+    "image": "3-5.png",
     "question_plain": "図5は、準中型免許または普通免許を受けて1年未満の人が、準中型自動車または普通自動車を運転するときに表示するマークである。",
     "explanation_plain": "準中型免許または普通免許を受けて1年未満の人は、車の前後に「初心者マーク」を付けて運転します。",
     "question_ruby": [
@@ -3927,7 +3927,7 @@
     "type": "standard",
     "number": 29,
     "answer": true,
-    "image": "<unknown>",
+    "image": "3-6.png",
     "question_plain": "図6の標示は、転回禁止であることを示している。",
     "explanation_plain": "図6は「転回禁止」の標示で、その場所では転回(Uターン)してはいけません。",
     "question_ruby": [
@@ -4611,7 +4611,7 @@
     "type": "standard",
     "number": 34,
     "answer": true,
-    "image": "<unknown>",
+    "image": "3-7.png",
     "question_plain": "図7の標識は、一般原動機付自転車が右折するとき、交差点の側端に沿って通行し、二段階右折をしなければならないことを表している。",
     "explanation_plain": "図7は「一般原動機付自転車の右折方法(二段階)」を表し、一般原動機付自転車は交差点で二段階右折しなければなりません。",
     "question_ruby": [
@@ -5487,7 +5487,7 @@
     "type": "standard",
     "number": 39,
     "answer": true,
-    "image": "<unknown>",
+    "image": "3-8.png",
     "question_plain": "図8の標識のあるところでは、車は左折しかすることができない。",
     "explanation_plain": "図8は「指定方向外進行禁止」で、矢印の方向しか進めないので左折しかできません。",
     "question_ruby": [
@@ -6143,7 +6143,7 @@
     "type": "standard",
     "number": 44,
     "answer": false,
-    "image": "<unknown>",
+    "image": "3-9.png",
     "question_plain": "原動機付自転車は、7時から9時まで、図9の通行帯を通行することができない。",
     "explanation_plain": "原動機付自転車、小型特殊自動車、軽車両は、路線バス等の専用通行帯を終日、通行できます。",
     "question_ruby": [
@@ -6685,7 +6685,7 @@
         "reading": null
       }
     ],
-    "image": "<unknown>",
+    "image": "3-10.png",
     "focus_points_plain": [
       "横断歩道手前の歩行者の動き",
       "反対方向から来る自転車の動き",
@@ -7301,7 +7301,7 @@
         "reading": null
       }
     ],
-    "image": "<unknown>",
+    "image": "3-11.png",
     "focus_points_plain": [
       "駐車車両の先の状況",
       "反対方向から来る自転車の動き",

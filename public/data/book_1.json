@@ -166,7 +166,7 @@
     "type": "standard",
     "number": 5,
     "answer": true,
-    "image": "<unknown>",
+    "image": "1-1.png",
     "question_plain": "図1の標示のある場所では、駐車はできないが停車をすることはできる。",
     "explanation_plain": "黄色の破線の標示は、駐車禁止を表します。",
     "question_ruby": [
@@ -414,7 +414,7 @@
     "type": "standard",
     "number": 11,
     "answer": false,
-    "image": "<unknown>",
+    "image": "1-2.png",
     "question_plain": "図2の標識は、「警笛禁止」を意味する。",
     "explanation_plain": "警笛禁止ではなく、「警笛鳴らせ」を意味します。",
     "question_ruby": [
@@ -624,7 +624,7 @@
     "type": "standard",
     "number": 16,
     "answer": true,
-    "image": "<unknown>",
+    "image": "1-3.png",
     "question_plain": "図3は、右折か転回、または右に進路変更するときの手による合図である。",
     "explanation_plain": "四輪の運転者が腕を車の外に出して水平に伸ばす合図は、右折か転回、右への進路変更を意味します。",
     "question_ruby": [
@@ -882,7 +882,7 @@
     "type": "standard",
     "number": 22,
     "answer": true,
-    "image": "<unknown>",
+    "image": "1-4.png",
     "question_plain": "図4の標識のあるところでは、車は道路の中央から右側部分にはみ出して追い越しをしてはならない。",
     "explanation_plain": "図4は、道路の中央から右側部分にはみ出して追い越しをすることを禁止する標識です。",
     "question_ruby": [
@@ -1129,7 +1129,7 @@
     "type": "standard",
     "number": 27,
     "answer": false,
-    "image": "<unknown>",
+    "image": "1-5.png",
     "question_plain": "図５の信号を表示している交差点では、車は徐行して進行しなければならない。",
     "explanation_plain": "黄色の灯火信号では、車は停止位置に近づいていて安全に停止できないときを除き、停止位置から先へ進んではいけません。",
     "question_ruby": [
@@ -1360,7 +1360,7 @@
     "type": "standard",
     "number": 32,
     "answer": false,
-    "image": "<unknown>",
+    "image": "1-6.png",
     "question_plain": "図６の標識のあるところでは、一般原動機付自転車は二段階の方法で右折しなければならない。",
     "explanation_plain": "図６は「一般原動機付自転車の右折方法（小回り）」を表し、二段階右折してはいけません。",
     "question_ruby": [
@@ -1591,7 +1591,7 @@
     "type": "standard",
     "number": 37,
     "answer": true,
-    "image": "<unknown>",
+    "image": "1-7.png",
     "question_plain": "図7の標識は、自動車と一般原動機付自転車が通行できないことを表している。",
     "explanation_plain": "「車両(組合せ)通行止め」の標識で、図7では自動車と一般原動機付自転車は通行できないことを表しています。",
     "question_ruby": [
@@ -1792,7 +1792,7 @@
     "type": "standard",
     "number": 42,
     "answer": false,
-    "image": "<unknown>",
+    "image": "1-8.png",
     "question_plain": "図8のような交通整理の行われていない道幅が同じような交差点では、A車はB車の進行を妨げてはならない。",
     "explanation_plain": "設問の交差点では左方のA車が優先するので、B車はA車の進行を妨げてはいけません。",
     "question_ruby": [
@@ -2009,7 +2009,7 @@
       { "base": "運転", "reading": "うんてん" },
       { "base": "しますか？", "reading": null }
     ],
-    "image": "<unknown>",
+    "image": "1-9.png",
     "focus_points_plain": ["左前方の自転車の進路", "左の路地の車の動き"],
     "focus_points_ruby": [
       [
@@ -2185,7 +2185,7 @@
       { "base": "運転", "reading": "うんてん" },
       { "base": "しますか？", "reading": null }
     ],
-    "image": "<unknown>",
+    "image": "1-10.png",
     "focus_points_plain": [
       "前方のタクシーから降りる客",
       "右バックミラーに映る車の動き"

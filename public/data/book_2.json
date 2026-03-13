@@ -104,7 +104,7 @@
     "type": "standard",
     "number": 3,
     "answer": false,
-    "image": "<unknown>",
+    "image": "2-1.png",
     "question_plain": "図1の標識があったが、通行する車がなく人もいなかったので、警音器を鳴らしながらそのままの速度で通行した。",
     "explanation_plain": "図1の「徐行」の標識があるところでは、警音器を鳴らさずに徐行しなければなりません。",
     "question_ruby": [
@@ -343,7 +343,7 @@
     "type": "standard",
     "number": 8,
     "answer": false,
-    "image": "<unknown>",
+    "image": "2-2.png",
     "question_plain": "図2は、「停止禁止部分」の標示である。",
     "explanation_plain": "図2は「立入り禁止部分」を表す標示で、停止禁止部分ではありません。",
     "question_ruby": [
@@ -622,7 +622,7 @@
     "type": "standard",
     "number": 15,
     "answer": true,
-    "image": "<unknown>",
+    "image": "2-3.png",
     "question_plain": "図3のマークを付けている車は、聴覚に障害がある人が運転しているので、周囲の車は十分注意して運転する。",
     "explanation_plain": "図3は「聴覚障害者マーク（標識）」を表し、車の運転者は十分注意して運転します。",
     "question_ruby": [
@@ -848,7 +848,7 @@
     "type": "standard",
     "number": 20,
     "answer": false,
-    "image": "<unknown>",
+    "image": "2-4.png",
     "question_plain": "図4の標識のある道路は、一般原動機付自転車も通行することができる。",
     "explanation_plain": "図4は普通自転車等及び歩行者等専用の標識で、一般原動機付自転車は通行できません。",
     "question_ruby": [
@@ -1383,7 +1383,7 @@
     "type": "standard",
     "number": 26,
     "answer": true,
-    "image": "<unknown>",
+    "image": "2-5.png",
     "question_plain": "交差点で警察官が図5のような手信号をしているとき、身体の正面に平行する方向の交通は、青色の灯火信号と同じである。",
     "explanation_plain": "警察官の身体の正面に平行する方向の交通については、青色の灯火信号と同じ意味を表します。",
     "question_ruby": [
@@ -2159,7 +2159,7 @@
     "type": "standard",
     "number": 31,
     "answer": false,
-    "image": "<unknown>",
+    "image": "2-6.png",
     "question_plain": "図6の標識のあるところでは、車両の通行が禁止されているが、自転車であれば通行することができる。",
     "explanation_plain": "図6は「車両通行止め」を表しますが、自転車も車両に含まれるので通行してはいけません。",
     "question_ruby": [
@@ -2887,7 +2887,7 @@
     "type": "standard",
     "number": 36,
     "answer": true,
-    "image": "<unknown>",
+    "image": "2-7.png",
     "question_plain": "図7の標識は「環状の交差点における右回り通行」を表し、環状の交差点であり、車は右回りに通行しなければならない。",
     "explanation_plain": "「環状の交差点における右回り通行」のある場所では、車は右回りに通行しなければなりません。",
     "question_ruby": [
@@ -3643,7 +3643,7 @@
     "type": "standard",
     "number": 41,
     "answer": true,
-    "image": "<unknown>",
+    "image": "2-8.png",
     "question_plain": "図8の標示は、道路の中央から右側部分にはみ出して通行できることを表す。",
     "explanation_plain": "図8は「右側通行」を表し、対向車に十分注意し、右側部分にはみ出して通行できます。",
     "question_ruby": [
@@ -4557,7 +4557,7 @@
         "reading": null
       }
     ],
-    "image": "<unknown>",
+    "image": "2-9.png",
     "focus_points_plain": [
       "左の歩道にいる歩行者の動き",
       "バスの後ろにいる車の進路"
@@ -5039,7 +5039,7 @@
         "reading": null
       }
     ],
-    "image": "<unknown>",
+    "image": "2-10.png",
     "focus_points_plain": ["左の路地の車の動き", "対向する二輪車の動き"],
     "focus_points_ruby": [
       [

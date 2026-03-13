@@ -4103,7 +4103,7 @@
     "type": "standard",
     "number": 29,
     "question_plain": "この標識のある通行帯は、原動機つき自転車は通行することができない。",
-    "image": true,
+    "image": "専用通行帯 原付 通行 .webp",
     "answer": false,
     "explanation_plain": "この標識は「専用通行帯」を表しています。原動機付自転車、小型特殊自動車、軽車両は通行できます。",
     "question_ruby": [
@@ -5224,7 +5224,7 @@
     "type": "standard",
     "number": 37,
     "question_plain": "この標識のある道路で、登板車線を通行できるのは、荷物を積んだトラックだけ",
-    "image": true,
+    "image": "登坂車線 交通標識 .jpeg",
     "answer": false,
     "explanation_plain": "この標識は「登板車線」を表していますが、トラックではなく速度の遅い車が入ることができます。",
     "question_ruby": [
@@ -5348,7 +5348,7 @@
     "type": "standard",
     "number": 38,
     "question_plain": "この標識のある道路では、車線が少なくなるため、右側の車線を通行しなければならない。",
-    "image": true,
+    "image": "車線減少 警戒標識 .webp",
     "answer": true,
     "explanation_plain": "この標識は、「車線数減少」を示しているため、左側の車線を通行している車は、右側の車線に進路変更をします。",
     "question_ruby": [
@@ -6410,7 +6410,7 @@
     "type": "standard",
     "number": 45,
     "question_plain": "この標識のある道路は普通自動車ば通行できないが、原動機付自転車は通行することが可能である。",
-    "image": true,
+    "image": "二輪の自動車以外通行止め 標識.png",
     "answer": true,
     "explanation_plain": "この標識は、「二輪の自動車以外の自動車通行止め」を示しています。自動二輪車や原動機付自転車は通行することが可能です。",
     "question_ruby": [
@@ -6777,7 +6777,7 @@
     "type": "standard",
     "number": 47,
     "question_plain": "この標示は、転回禁止の区間の終わりを表しているため、Uターンすることが可能である。",
-    "image": true,
+    "image": "転回禁止 標示 .webp",
     "answer": false,
     "explanation_plain": "この標示は「転回禁止」を示しています。Uターンすることはできません。",
     "question_ruby": [
@@ -6869,7 +6869,7 @@
     "type": "standard",
     "number": 48,
     "question_plain": "この標識のあるところでは、左側からの合流車に注意して運転する必要がある。",
-    "image": true,
+    "image": "合流注意 警戒標識 .jpeg",
     "answer": true,
     "explanation_plain": "この標識は「合流交通あり」を示しているため、左側からの合流車に注意しましょう。",
     "question_ruby": [

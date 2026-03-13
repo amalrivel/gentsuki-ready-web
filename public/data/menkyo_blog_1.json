@@ -1864,7 +1864,7 @@
     "type": "standard",
     "number": 16,
     "question_plain": "この標識のある道路は、原動機付自転車（原付）も通行することが可能",
-    "image": true,
+    "image": "自転車専用 標識 日本.png",
     "answer": false,
     "explanation_plain": "この標識は「自転車専用」を表しています。普通自転車以外の車と、歩行者の通行は許可されていません",
     "question_ruby": [
@@ -3559,7 +3559,7 @@
     "type": "standard",
     "number": 30,
     "question_plain": "この標識は、一方通行の始まりを表している。",
-    "image": true,
+    "image": "左折可 標識 日本.png",
     "answer": false,
     "explanation_plain": "この標識は「左折可」を表しています",
     "question_ruby": [
@@ -4258,7 +4258,7 @@
     "type": "standard",
     "number": 36,
     "question_plain": "この標識のある道路では、道路外の施設に 出入りするための右折を伴う道路の横断が禁 止されている。",
-    "image": true,
+    "image": "車両横断禁止 標識.png",
     "answer": true,
     "explanation_plain": "この標識は「車両横断禁止」を表しています。右折を伴う道路の横断が禁止されています",
     "question_ruby": [
@@ -4422,7 +4422,7 @@
     "type": "standard",
     "number": 37,
     "question_plain": "この標識のある道路は、原動機付自転車であれば通行してもよい。",
-    "image": true,
+    "image": "二輪の自動車以外通行止め 標識.png",
     "answer": true,
     "explanation_plain": "この標識は「二輪の自動車以外の自動車通行止め」を表しています。よって原付の通行は可能です。",
     "question_ruby": [
@@ -4891,7 +4891,7 @@
     "type": "standard",
     "number": 41,
     "question_plain": "この標識は、この先で交通規制が行われている",
-    "image": true,
+    "image": "その他の危険 標識.png",
     "answer": false,
     "explanation_plain": "この標識は「交通規制」ではなく、「その他の危険」を表す標識です。",
     "question_ruby": [

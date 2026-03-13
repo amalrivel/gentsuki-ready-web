@@ -74,11 +74,16 @@ function normalizeImagePath(image: unknown): string | undefined {
 
   const name = image.trim();
   if (!name) return undefined;
-  if (/^https?:\/\//i.test(name)) return name;
-  if (name.startsWith('/images/')) return name;
 
-  const clean = name.replace(/^\/+/, '').replace(/^images\//, '');
-  return `/images/${clean}`;
+  // External URLs pass through as-is; QuizImage renders them as plain <img>
+  if (/^https?:\/\//i.test(name)) return name;
+
+  // Strip any path prefix and file extension → keep only the stem.
+  // "5011.jpg", "/images/5011.jpg", "drive/5011.jpg" all become "5011".
+  // QuizImage constructs the full paths (/images/{stem}.avif, .webp, .jpg).
+  const basename = name.split(/[/\\]/).pop() ?? name;
+  const stem = basename.replace(/\.[^.]*$/, '');
+  return stem || undefined;
 }
 
 function normalizeRubyTokens(tokens: unknown): RubyToken[] | undefined {
@@ -211,7 +216,13 @@ function extractQuestions(raw: unknown): { items: unknown[]; setId?: string; tit
 }
 
 export async function loadQuizSet(meta: QuizSetMeta, options: LoadQuizOptions): Promise<QuizSetFile> {
-  const response = await fetch(meta.file, { cache: 'no-store' });
+  // meta.file is an absolute path like '/data/foo.json'.
+  // When Vite is configured with a sub-path base (e.g. '/gentsuki-ready-web/'),
+  // we must prepend that base; otherwise the fetch goes to the wrong origin path.
+  const base = (import.meta.env.BASE_URL ?? '/').replace(/\/$/, '');
+  const url  = meta.file.startsWith('/') ? base + meta.file : meta.file;
+
+  const response = await fetch(url, { cache: 'no-store' });
 
   if (!response.ok) {
     throw new Error(`Gagal memuat set ${meta.id} (${response.status})`);

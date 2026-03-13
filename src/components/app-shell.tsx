@@ -9,28 +9,48 @@ import {
   clearAllProgress,
   loadActiveSet,
   loadPreferences,
+  loadProgress,
   saveActiveSet,
   savePreferences,
 } from '../lib/storage';
 
 export function AppShell() {
-  const [selectedSetId, setSelectedSetId] = useState<string | null>(() => loadActiveSet());
+  const [previewSetId, setPreviewSetId] = useState<string | null>(() => loadActiveSet());
+  const [activeSetId, setActiveSetId] = useState<string | null>(() => loadActiveSet());
   const [preferences, setPreferences] = useState<UserPreferences>(() => loadPreferences());
 
-  const selectedSet = useMemo<QuizSetMeta | null>(
-    () => QUIZ_SETS.find((item) => item.id === selectedSetId) ?? null,
-    [selectedSetId],
+  const activeSet = useMemo<QuizSetMeta | null>(
+    () => QUIZ_SETS.find((item) => item.id === activeSetId) ?? null,
+    [activeSetId],
   );
 
-  const quiz = useQuiz(selectedSet);
+  const previewSet = useMemo<QuizSetMeta | null>(
+    () => QUIZ_SETS.find((item) => item.id === previewSetId) ?? null,
+    [previewSetId],
+  );
+
+  const hasSavedProgress = useMemo(
+    () => (previewSetId ? loadProgress(previewSetId) !== null : false),
+    [previewSetId],
+  );
+
+  const quiz = useQuiz(activeSet);
 
   useEffect(() => {
     savePreferences(preferences);
   }, [preferences]);
 
+  // Preview panel is shown when user has selected a set but not yet confirmed start
+  const showPreview = previewSetId !== null && previewSetId !== activeSetId;
+
   function handleSelect(setId: string) {
-    setSelectedSetId(setId);
-    saveActiveSet(setId);
+    setPreviewSetId(setId);
+  }
+
+  function handleStart() {
+    if (!previewSetId) return;
+    setActiveSetId(previewSetId);
+    saveActiveSet(previewSetId);
   }
 
   function handleResetAllProgress() {
@@ -45,43 +65,55 @@ export function AppShell() {
         <h1>{UI_TEXT.appTitle}</h1>
       </header>
 
-      {quiz.status === 'idle' && (
+      {showPreview ? (
         <section class="panel">
-          <p>Pilih set untuk mulai.</p>
+          <h2 class="panel-title">{previewSet?.title ?? previewSetId}</h2>
+          {hasSavedProgress && <p>Progress tersimpan tersedia untuk set ini.</p>}
+          <button type="button" class="btn-start" onClick={handleStart}>
+            {hasSavedProgress ? 'Lanjutkan' : 'Mulai'}
+          </button>
         </section>
-      )}
+      ) : (
+        <>
+          {quiz.status === 'idle' && (
+            <section class="panel">
+              <p>Pilih set untuk mulai.</p>
+            </section>
+          )}
 
-      {quiz.status === 'loading' && (
-        <section class="panel">
-          <h2>Memuat Set</h2>
-          <p>Memuat soal...</p>
-        </section>
-      )}
+          {quiz.status === 'loading' && (
+            <section class="panel">
+              <h2>Memuat Set</h2>
+              <p>Memuat soal...</p>
+            </section>
+          )}
 
-      {quiz.status === 'error' && (
-        <section class="panel">
-          <h2>Terjadi masalah</h2>
-          <p>{quiz.errorMessage ?? 'Gagal memuat data.'}</p>
-          <button type="button" onClick={quiz.retryLoad}>Coba lagi</button>
-        </section>
-      )}
+          {quiz.status === 'error' && (
+            <section class="panel">
+              <h2>Terjadi masalah</h2>
+              <p>{quiz.errorMessage ?? 'Gagal memuat data.'}</p>
+              <button type="button" onClick={quiz.retryLoad}>Coba lagi</button>
+            </section>
+          )}
 
-      {quiz.status === 'ready' && quiz.currentQuestion && (
-        <QuizCard quiz={quiz} preferences={preferences} />
-      )}
+          {quiz.status === 'ready' && quiz.currentQuestion && (
+            <QuizCard quiz={quiz} preferences={preferences} />
+          )}
 
-      {quiz.status === 'finished' && (
-        <ResultPanel
-          setTitle={selectedSet?.title ?? 'Set quiz'}
-          score={quiz.score}
-          maxScore={quiz.maxScore}
-          onRestart={quiz.restartQuiz}
-        />
+          {quiz.status === 'finished' && (
+            <ResultPanel
+              setTitle={activeSet?.title ?? 'Set quiz'}
+              score={quiz.score}
+              maxScore={quiz.maxScore}
+              onRestart={quiz.restartQuiz}
+            />
+          )}
+        </>
       )}
 
       <SetSelector
         sets={QUIZ_SETS}
-        selectedSetId={selectedSetId}
+        selectedSetId={previewSetId}
         onSelect={handleSelect}
       />
 

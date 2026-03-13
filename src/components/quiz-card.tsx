@@ -2,6 +2,7 @@ import type { useQuiz } from '../hooks/use-quiz';
 import type { RubyToken, UserPreferences } from '../types/quiz';
 import { getDisplayMode } from '../lib/furigana';
 import { ExplanationPanel } from './explanation-panel';
+import { QuizImage } from './quiz-image';
 
 type Props = {
   quiz: ReturnType<typeof useQuiz>;
@@ -52,12 +53,7 @@ export function QuizCard({ quiz, preferences }: Props) {
       <h2>Soal {question.numberLabel ?? question.number}</h2>
 
       {question.image && (
-        <img
-          src={question.image}
-          alt={`Ilustrasi soal ${question.number}`}
-          loading="lazy"
-          class="question-image"
-        />
+        <QuizImage image={question.image} number={question.number} class="question-image" />
       )}
 
       {question.isIllustrationChild && question.stem_plain && (
